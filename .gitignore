@@ -1,0 +1,6 @@
+# exclure le répertoire site
+site/
+# exclure les fichiers de backup gedit
+*~
+# exclure le répertoire dev
+dev/

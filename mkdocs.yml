@@ -1,0 +1,80 @@
+---
+# yaml-language-server:
+# $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: Séances des Cassiopéens
+site_url: http://127.0.0.1:8000
+use_directory_urls: false
+extra:
+  consent:
+    title: Cookie autorisation
+    actions:
+      - accept
+      - reject
+      - manage
+    description: >-
+      Nous utilisons les cookies pour faciliter la collecte des données
+      relatives aux visites de notre Site, et dans certains cas pour fournir
+      un contenu plus pertinent. Un cookie ne peut pas lire les données de votre
+      disque dur ni les fichiers de cookie créés par d’autres sites.
+      En donnant votre consentement, vous nous aidez à améliorer
+      notre documentation.
+
+copyright: Copyright &copy; Groupe de traducteurs des séances cassiopéennes
+validation:
+  links:
+    absolute_links: relative_to_docs
+    anchors: warn
+    unrecognized_links: warn
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - footnotes
+  - attr_list
+theme:
+  language: fr
+  name: material
+  favicon: assets/favicon.jpg
+  logo: assets/logo.png
+  features:
+    - content.footnote.tooltips
+    # - navigation.instant
+    # - navigation.instant.progress
+    # - navigation.instant.prefetch
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    # - navigation.sections
+    - navigation.path
+    # - navigation.prune
+    # - toc.follow
+    - toc.integrate
+
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+plugins:
+  - search
+  # - optimize
+  # - offline
+  - minify:
+      minify_html: true
+# - awesome-nav
+# - print-site # toujours en bas de la liste des plugins

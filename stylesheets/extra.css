@@ -1,0 +1,17 @@
+/* petit style discret à côté du titre */
+.md-build-date {
+  font-size: 0.65rem;
+  font-weight: normal;
+  font-style: italic;
+  color: #e6695b;
+  margin-left: 0.6rem;
+  display: inline-block;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+/* sur petits écrans, empiler */
+@media (max-width: 720px) {
+  .md-build-date.inline { display: block; margin-left: 0; margin-top: 0.25rem; }
+}
+/* variante sous le titre */
+.md-build-date.under { display: block; margin-top: 0.25rem; margin-left: 0.5rem; }

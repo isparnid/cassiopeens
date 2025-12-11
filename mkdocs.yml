@@ -3,8 +3,11 @@
 # $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
 site_name: Séances des Cassiopéens
-site_url: http://127.0.0.1:8000
-use_directory_urls: false
+site_url: https://isparnid/github.io/cassiopeens
+repo_url: https://github.com/isparnid/cassiopeens
+site_author : Membres du groupe de traduction FOTCM
+repo_name: GitHub
+use_directory_urls: true
 extra:
   consent:
     title: Cookie autorisation
@@ -20,7 +23,7 @@ extra:
       En donnant votre consentement, vous nous aidez à améliorer
       notre documentation.
 
-copyright: Copyright &copy; Groupe de traducteurs des séances cassiopéennes
+copyright: Copyright &copy 2025 Membres du groupe de traduction FOTCM
 validation:
   links:
     absolute_links: relative_to_docs
@@ -34,6 +37,7 @@ markdown_extensions:
 theme:
   language: fr
   name: material
+  custom_dir: overrides
   favicon: assets/favicon.jpg
   logo: assets/logo.png
   features:
@@ -51,6 +55,8 @@ theme:
     # - navigation.prune
     # - toc.follow
     - toc.integrate
+  icon:
+    repo: fontawesome/brands/git-alt
 
   palette:
     # Palette toggle for automatic mode
@@ -73,8 +79,17 @@ theme:
 plugins:
   - search
   # - optimize
-  # - offline
   - minify:
       minify_html: true
-# - awesome-nav
-# - print-site # toujours en bas de la liste des plugins
+  - document-dates:
+     position: top
+     type: date
+     exclude:
+       - overrides/*
+       - dev/*
+       - .*
+     date_format: '%d-%m-%Y'
+     time_format: '%H:%M:%S'
+     show_created: true
+     show_updated: true
+     show_author: true

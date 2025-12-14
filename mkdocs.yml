@@ -34,6 +34,7 @@ extra_css:
 markdown_extensions:
   - footnotes
   - attr_list
+  - pymdownx.tilde
   - toc:
       permalink: ⚓︎
 

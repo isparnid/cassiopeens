@@ -9,7 +9,7 @@ Les commentaires ne sont pas autorisés. Ils peuvent être soumis sur le forum d
 # En cours
 
 * Publication des séances déjà traduites triées part date,
-* ~~Affichage de la date de publication et de mise à jour,~~
+* ~Affichage de la date de publication et de mise à jour,~
 * Approbation par l'équipe du copyright,
 * Approbation par l'équipe de la licence (MIT + CC),
 * Adaptation pour lecture sur smartphone,

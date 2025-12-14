@@ -24,6 +24,7 @@ Les commentaires ne sont pas autorisés. Ils peuvent être soumis sur le forum d
 ![](assets/bouton_haut.png)
 
 * Moteur de recherche : accepte plusieurs mots mais pas encore d'opérateur AND ou OR (prévu début 2026).
+* Affichage mode sombre/clair/auto en cliquant sur l'icône ![](assets/dark_light_mode.png)
 
 
 # Important

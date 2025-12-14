@@ -9,16 +9,28 @@ Les commentaires ne sont pas autorisés. Ils peuvent être soumis sur le forum d
 # En cours
 
 * Publication des séances déjà traduites triées part date,
-* Affichade de la date de publication et de mise à jour,
+* ~~Affichage de la date de publication et de mise à jour,~~
 * Approbation par l'équipe du copyright,
 * Approbation par l'équipe de la licence (MIT + CC),
 * Adaptation pour lecture sur smartphone,
 
+# Usage
+
+* En cliquant sur le menu "Séances", une liste déroulante sur la gauche affiche les années de parution. En cliquant sur l'année, les séances apparaissent par ordre chronologiques. En cliquant sur l'année, le contenu de la séance apparaît sur la droite.
+* En laissant la souris survoler un numéro de renvoi de note de bas de page, le contenu de la note apparaît sous forme d'une bulle.
+* La barre de menu se rétracte lorsqu'on descend sur la page pour une plus grande surface de lecture.
+* Remonter avec l'aide de la souris refait apparaître la totalité de la barre de menu ainsi qu'un bouton de retour en haut de la page :
+
+![](assets/bouton_haut.png)
+
+* Moteur de recherche : accepte plusieurs mots mais pas encore d'opérateur AND ou OR (prévu début 2026).
+
+
 # Important
 
-* Téléchargement du site sur son PC/Tablette tel qu'il apparait sur internet avec la même fonctionnalité de recherche,
-* Téléchargement au <u>format PDF</u>,
-* Téléchargement au <u>format ePUB</u>,
+* Téléchargement du site sur son PC/Tablette tel qu'il apparaît sur internet avec la même fonctionnalité de recherche,(en cours).
+* Téléchargement au <u>format PDF</u>, (en cours).
+* Téléchargement au <u>format ePUB</u>, (en cours).
 * etc.
 
 # A faire

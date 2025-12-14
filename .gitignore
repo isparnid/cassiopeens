@@ -2,6 +2,7 @@
 site/
 venv/
 dev/
+site/
 # exclure les fichiers de backup gedit
 *~
 # exclure le fichier venv.sh

@@ -1,8 +1,10 @@
 ---
 title: Messages finaux
 name: Messages finaux récents et avertissements des séances
-authors: Membres du groupe de traduction FOTCM
+authors: "Membres du groupe de traduction FOTCM"
 ---
+# Messages finaux récents et avertissements des séances
+
 # 27 septembre 2025
 
 R : Faites en sorte de rester discrets à partir de maintenant. Les choses sont sur le point de devenir plus étranges que vous ne pouvez l'imaginer.

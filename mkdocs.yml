@@ -4,9 +4,9 @@
 
 site_name: Séances des Cassiopéens
 site_url: https://isparnid/github.io/cassiopeens
-# repo_url: https://github.com/isparnid/cassiopeens
-site_author : Membres du groupe de traduction FOTCM
+repo_url: https://github.com/isparnid/cassiopeens
 repo_name: GitHub
+site_author : Membres du groupe de traduction FOTCM
 use_directory_urls: true
 # extra:
 copyright: Transcriptions des sessions Cassiopéennes copyright &copy 1994-2026 FOTCM, Inc. Tous droits réservés.
@@ -82,4 +82,4 @@ plugins:
      time_format: '%H:%M:%S'
      show_created: true
      show_updated: true
-     show_author: true
+     show_author: false

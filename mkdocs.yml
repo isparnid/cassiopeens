@@ -4,8 +4,8 @@
 
 site_name: Séances des Cassiopéens
 site_url: https://isparnid/github.io/cassiopeens
-repo_url: https://github.com/isparnid/cassiopeens
-repo_name: GitHub
+# repo_url: https://github.com/isparnid/cassiopeens
+# repo_name: GitHub
 site_author : Membres du groupe de traduction FOTCM
 use_directory_urls: true
 # extra:

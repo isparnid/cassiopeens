@@ -71,15 +71,3 @@ plugins:
   # - optimize
   - minify:
       minify_html: true
-  - document-dates:
-     position: top
-     type: date
-     exclude:
-       - overrides/*
-       - dev/*
-       - .*
-     date_format: '%d-%m-%Y'
-     time_format: '%H:%M:%S'
-     show_created: true
-     show_updated: true
-     show_author: true

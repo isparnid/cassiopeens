@@ -1,5 +1,5 @@
 ---
-title: Messages finaux récents et avertissements des séances
+title: C's messages finaux
 name: Membres du groupe de traduction FOTCM
 ---
 # Messages finaux récents et avertissements des séances

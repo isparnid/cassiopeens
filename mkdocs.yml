@@ -9,7 +9,7 @@ site_author : Membres du groupe de traduction FOTCM
 repo_name: GitHub
 use_directory_urls: true
 # extra:
-copyright: Transcriptions des sessions Cassiopéennes copyright &copy 1994-2025 FOTCM, Inc. Tous droits réservés.
+copyright: Transcriptions des sessions Cassiopéennes copyright &copy 1994-{{build_date_utc.strftime('%Y')}} FOTCM, Inc. Tous droits réservés.
 validation:
   links:
     absolute_links: relative_to_docs

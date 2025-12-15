@@ -6,15 +6,6 @@ Sur ce site vous trouverez l'ensemble des séances à la date qui s'affiche en h
 
 Les commentaires ne sont pas autorisés. Ils peuvent être soumis sur le forum dans un sujet créé à cet effet.
 
-# En cours
-
-* Publication des séances déjà traduites triées part date,
-* ~~Affichage de la date de publication et de mise à jour,~~
-* ~~Approbation par l'équipe du copyright,~~
-* ~~Approbation par l'équipe de la licence (MIT + CC),~~
-* ~~Suppression des cookies,~~
-* ~~Adaptation pour lecture sur smartphone,~~
-
 # Usage
 
 * En cliquant sur le menu "Séances", une liste déroulante sur la gauche affiche les années de parution. En cliquant sur l'année, les séances apparaissent par ordre chronologiques. En cliquant sur l'année, le contenu de la séance apparaît sur la droite.
@@ -27,7 +18,6 @@ Les commentaires ne sont pas autorisés. Ils peuvent être soumis sur le forum d
 * Moteur de recherche : accepte plusieurs mots mais pas encore d'opérateur AND ou OR (prévu début 2026).
 * Affichage mode sombre/clair/auto en cliquant sur l'icône ![](assets/dark_light_mode.png)
 
-
 # Important
 
 * Téléchargement du site sur son PC/Tablette tel qu'il apparaît sur internet avec la même fonctionnalité de recherche,(en cours).
@@ -35,10 +25,17 @@ Les commentaires ne sont pas autorisés. Ils peuvent être soumis sur le forum d
 * Téléchargement au <u>format ePUB</u>, (en cours).
 * etc.
 
-# A faire
+# En cours
 
+* Publication des séances déjà traduites triées part date,
+* ~~Affichage de la date de publication et de mise à jour,~~
+* ~~Approbation par l'équipe du copyright,~~
+* ~~Approbation par l'équipe de la licence (MIT + CC),~~
+* ~~Suppression des cookies,~~
+* ~~Adaptation pour lecture sur smartphone,~~
+* Réordonner le menu,
 * Créer un sujet "Site en français des séances Cassiopéennes" sur le forum,
-* Signifier aux personnes enregistrées la mise à jour du site (publication de nouvelle séance, amélioration du site, etc.
+* Signifier aux personnes enregistrées la mise à jour du site (publication de nouvelle séance, amélioration du site, etc.),
 * Améliorer le référencement (si nécessaire),
 * etc.
 

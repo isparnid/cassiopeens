@@ -1,7 +1,6 @@
 ---
-title: Messages finaux
-name: Messages finaux récents et avertissements des séances
-authors: "Membres du groupe de traduction FOTCM"
+title: Messages finaux récents et avertissements des séances
+name: Membres du groupe de traduction FOTCM
 ---
 # Messages finaux récents et avertissements des séances
 

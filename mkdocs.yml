@@ -8,22 +8,8 @@ repo_url: https://github.com/isparnid/cassiopeens
 site_author : Membres du groupe de traduction FOTCM
 repo_name: GitHub
 use_directory_urls: true
-extra:
-  consent:
-    title: Cookie autorisation
-    actions:
-      - accept
-      - reject
-      - manage
-    description: >-
-      Nous utilisons les cookies pour faciliter la collecte des données
-      relatives aux visites de notre Site, et dans certains cas pour fournir
-      un contenu plus pertinent. Un cookie ne peut pas lire les données de votre
-      disque dur ni les fichiers de cookie créés par d’autres sites.
-      En donnant votre consentement, vous nous aidez à améliorer
-      notre documentation.
-
-copyright: Copyright &copy 2025 Membres du groupe de traduction FOTCM
+# extra:
+copyright: Transcriptions des sessions Cassiopéennes copyright &copy 1994-2025 FOTCM, Inc. Tous droits réservés.
 validation:
   links:
     absolute_links: relative_to_docs

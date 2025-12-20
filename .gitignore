@@ -1,7 +1,6 @@
 # exclure les répertoires
 site/
 .venv/
-dev/
 # exclure les fichiers de backup gedit
 *~
 # exclure le fichier venv.sh

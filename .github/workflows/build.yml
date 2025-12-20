@@ -28,5 +28,5 @@ jobs:
           path: ~/.cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material mkdocs-document-dates mkdocs-minify-plugin
+      - run: pip install mkdocs-material mkdocs-document-dates mkdocs-minify-plugin mkdocs-recently-updated-docs
       - run: mkdocs gh-deploy --force --message "Deploy from GitHub Actions"

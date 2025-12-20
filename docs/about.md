@@ -25,6 +25,14 @@ Les commentaires ne sont pas autorisés. Ils peuvent être soumis sur le forum d
 * Téléchargement au <u>format ePUB</u>, (en cours).
 * etc.
 
+# Licence et copyright
+
+Copyright & MT
+
+Transcriptions des sessions Cassiopéennes copyright &copy 1994-2026 FOTCM, Inc. Tous droits réservés.
+
+Le code source sous-jacent utilisé pour formater et afficher ce contenu est distribué sous [licence MIT](https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md).
+
 # En cours
 
 * Publication des séances déjà traduites triées part date,

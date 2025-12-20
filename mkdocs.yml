@@ -68,13 +68,14 @@ theme:
 plugins:
   - search
   # - optimize
-  - minify:
-      minify_html: true
+  # - minify:
+  #     minify_html: true
   - recently-updated:
-      limit: 8
-      exclude:
+      limit: 8              # Limit the number of docs displayed
+      exclude:              # Exclude documents you don't want to show
        - index.md
        - about.md
+       - licence.md
        - introduction.md
      # template: templates/recently_updated_list.html    # Custom rendering template
 

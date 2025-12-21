@@ -70,12 +70,28 @@ plugins:
   # - optimize
   # - minify:
   #     minify_html: true
-  - recently-updated:
-      limit: 8              # Limit the number of docs displayed
-      exclude:              # Exclude documents you don't want to show
+  - document-dates:
+     position: top            # Display position: top(after title) bottom(end of document), default: top
+     type: date               # Date type: date datetime timeago, default: date
+     exclude:                 # List of excluded files
+       - overrides/*          # Example: exclude the specified file
+       - dev/*                # Example: exclude all files in blog folder, including subfolders
        - index.md
        - about.md
        - licence.md
+       - download.md
        - introduction.md
-      template: templates/recently_updated_list.html    # Custom rendering template
+     date_format: '%d-%m-%Y'  # Date format strings (e.g., %Y-%m-%d, %b %d, %Y)
+     time_format: '%H:%M:%S'  # Time format strings (valid only if type=datetime)
+     show_created: true       # Show creation date: true false, default: true
+     show_updated: true       # Show last updated date: true false, default: true
+     show_author: false       # Show author: true(avatar) text(text) false(hidden), default: true
+     recently-updated:
+       limit: 8              # Limit the number of docs displayed
+       exclude:              # Exclude documents you don't want to show
+        - index.md
+        - about.md
+        - licence.md
+        - download.md
+        - introduction.md
 

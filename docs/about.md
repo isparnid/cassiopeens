@@ -35,14 +35,14 @@ Le code source sous-jacent utilisé pour formater et afficher ce contenu est dis
 
 # En cours
 
-* Publication des séances déjà traduites triées part date,
+* ~~Publication des séances déjà traduites triées part date,~~
 * ~~Affichage de la date de publication et de mise à jour,~~
 * ~~Approbation par l'équipe du copyright,~~
 * ~~Approbation par l'équipe de la licence (MIT + CC),~~
 * ~~Suppression des cookies,~~
 * ~~Adaptation pour lecture sur smartphone,~~
-* Réordonner le menu,
-* Créer un sujet "Site en français des séances Cassiopéennes" sur le forum,
+* ~~Réordonner le menu,~~
+* ~~Créer un sujet "Site en français des séances Cassiopéennes" sur le forum,~~
 * Signifier aux personnes enregistrées la mise à jour du site (publication de nouvelle séance, amélioration du site, etc.),
 * Améliorer le référencement (si nécessaire),
 * etc.

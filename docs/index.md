@@ -14,3 +14,5 @@
 * **[Cassiopaea Transcripts Search](https://cassiopaeatranscripts.org/)** - Site de recherche dans les transcriptions des séances Cassiopéennes.
 
 * **[SOTT (Sign of the Times)](https://fr.sott.net/)** - Une source d'information indépendante, impartiale et alternative et des commentaires sur les événements mondiaux.
+
+* **[Les éditions Pilule Rouge](https://www.pilulerouge.com/fr/)** - Maison d’édition basée dans le Sud de la France. Spécialisée dans les ouvrages et autres ressources qui nous aident à mieux comprendre le monde qui nous entoure et la condition humaine. 

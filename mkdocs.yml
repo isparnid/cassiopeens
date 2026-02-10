@@ -18,12 +18,30 @@ validation:
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
+  - pymdownx.caret     # ^^This was inserted (underline)^^
+  - pymdownx.mark      # ==This was marked (highlight)==
+  - pymdownx.tilde     # ~~This was deleted (strikethrough)~~
   - footnotes
   - attr_list
-  - pymdownx.tilde
+  - abbr
+  - pymdownx.snippets
   - toc:
       permalink: ⚓︎
 theme:
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
   language: fr
   name: material
   custom_dir: overrides
@@ -67,33 +85,34 @@ theme:
         name: Switch to system preference
 plugins:
   - search
+  - exclude-search:
+      exclude:
+        #- about.md
+        #- citations/*
   # - optimize
   # - minify:
   #     minify_html: true
   - document-dates:
      position: top            # Display position: top(after title) bottom(end of document), default: top
      type: date               # Date type: date datetime timeago, default: date
-     exclude:                 # List of excluded files
-       - overrides/*          # Example: exclude the specified file
-       - dev/*                # Example: exclude all files in blog folder, including subfolders
-       - index.md
-       - about.md
-       - licence.md
-       - download.md
-       - introduction.md
+     #exclude:                 # List of excluded files
+       #- overrides/*          # Example: exclude the specified file
+       #- index.md
+       #- download.md
+       #- introduction.md
      date_format: '%d-%m-%Y'  # Date format strings (e.g., %Y-%m-%d, %b %d, %Y)
      time_format: '%H:%M:%S'  # Time format strings (valid only if type=datetime)
      show_created: true       # Show creation date: true false, default: true
      show_updated: true       # Show last updated date: true false, default: true
      show_author: false       # Show author: true(avatar) text(text) false(hidden), default: true
      recently-updated:
-       limit: 8              # Limit the number of docs displayed
+       limit: 9              # Limit the number of docs displayed
        exclude:              # Exclude documents you don't want to show
-        - index.md
-        - about.md
-        - licence.md
-        - download.md
-        - introduction.md
+        #- index.md
+        #- download.md
+        #- introduction.md
+        - citations/*
+        - citations/tags.md
   - tags:
       tags_file: citations/tags.md
   - blog:
@@ -132,6 +151,3 @@ plugins:
       # draft: false
       # draft_on_serve: true
       # draft_if_future_date: false
-
-
-

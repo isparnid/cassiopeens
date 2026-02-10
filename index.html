@@ -126,7 +126,7 @@
             Séances des Cassiopéens
           </span>
           <span class="md-build-date" aria-hidden="true">
-            à la date du 29 Jan 2026 - 16:45
+            à la date du 10 Feb 2026 - 21:11
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -745,6 +745,8 @@
   
     
     
+      
+        
       
         
       
@@ -6220,6 +6222,8 @@
       
         
       
+        
+      
     
     
     
@@ -6530,6 +6534,34 @@
     
   
     Séance du 8 août 1998
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="s%C3%A9ances/1998/1998-08-15/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Séance du 15 août 1998
   
 
     
@@ -15073,6 +15105,96 @@
 
               
             
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_33" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_33" id="__nav_7_33_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2026
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_33_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_33">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2026
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="s%C3%A9ances/2026/2026-01-24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Séance du 24 janvier 2026
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
           </ul>
         </nav>
       
@@ -15109,72 +15231,256 @@
 
 
 <h1 id="accueil">Accueil<a class="headerlink" href="#accueil" title="Permanent link">⚓︎</a></h1>
+<div class='document-dates-plugin-wrapper document-dates-top'><div class='document-dates-plugin' locale=''><div class='dd-left'><span class='dd-item' data-tippy-content data-tippy-raw='03-12-2025'><span class='material-icons' data-icon='doc_created'></span><time datetime='2025-12-03T22:03:32+01:00'>03-12-2025</time></span><span class='dd-item' data-tippy-content data-tippy-raw='31-12-2025'><span class='material-icons' data-icon='doc_updated'></span><time datetime='2025-12-31T14:48:34+01:00'>31-12-2025</time></span></div></div></div>
 <h2 id="derniers-documents-mis-a-jour">Derniers documents mis à jour<a class="headerlink" href="#derniers-documents-mis-a-jour" title="Permanent link">⚓︎</a></h2><style>
-.recently-updated {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 10px;
-    margin: 0;
-    padding: 16px;
-    border: 1px solid rgba(142, 142, 142, 0.15);
-    border-radius: 8px;
-    font-family: system-ui, sans-serif;
+.article-layout-switcher {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 12px;
 }
-.recently-updated-item {
+.article-layout-switcher button + button {
+    margin-left: 8px;
+}
+.article-layout-switcher button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 4px;
     display: flex;
     align-items: center;
+    color: var(--md-typeset-color, #1c1c1c);
+    opacity: 0.4;
+    transition: all 0.2s;
 }
-.recently-updated-item span {
-    font-size: 0.84em;
-    color: rgba(142, 142, 142, 0.5);
-    margin-right: 4px;
-    flex-shrink: 0;
-    width: 90px;
+.article-layout-switcher button:hover {
+    background: rgba(142, 142, 142, 0.1);
+    opacity: 0.8;
 }
-.recently-updated-item a {
+.article-layout-switcher button.is-active {
+    opacity: 1;
+    color: var(--md-accent-fg-color, blue);
+    background: rgba(142, 142, 142, 0.1);
+}
+.article-layout-switcher .material-icons {
+    font-size: 20px;
+}
+
+/* --- 网格模式 (默认) --- */
+.article-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+    /* transition: all 0.2s ease; */
+}
+
+/* --- 详情模式 (is-detail) --- */
+.article-grid.is-detail {
+    grid-template-columns: 1fr;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* --- 列表模式 (is-list) --- */
+.article-grid.is-list {
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 1px solid rgba(142, 142, 142, 0.2);
+    border-radius: 8px;
+    row-gap: 0;
+    padding: 11px;
+}
+.article-grid.is-list .card-body {
+    display: none;
+}
+.article-grid.is-list .article-card {
+    border: none;
+    border-radius: 0;
+    padding: 8px;
+}
+.article-grid.is-list .card-title {
+    font-weight: 400;
+    color: #0077cc;
+    /* color: var(--md-typeset-color, #1c1c1c); */
+
+    white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;
-    color: #0077cc;
-    text-decoration: none;
-    transition: color 0.2s ease;
+    min-width: 0;
 }
-.recently-updated-item a:hover {
+.article-grid.is-list .card-date {
+    margin-right: 0;
+}
+
+
+.article-card {
+    border: 1px solid rgba(142, 142, 142, 0.2);
+    border-radius: 8px;
+    padding: 16px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+/* --- 第一行：标题与时间 --- */
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+}
+.card-title {
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--md-typeset-color, #1c1c1c);
+    margin-right: 12px;
+}
+.card-date {
+    font-size: 0.84em;
+    color: rgba(100, 100, 100, 0.4);
+    white-space: nowrap;
+    margin-right: 10px;
+}
+.card-header:hover .card-title {
+    color: var(--md-accent-fg-color, blue);
     text-decoration: underline;
 }
+
+/* --- 第二行：摘要与封面图 --- */
+.card-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 12px;
+}
+.card-summary {
+    flex: 1;
+    color: rgba(142, 142, 142, 1);
+    font-size: 0.7rem;
+    line-height: 1.6;
+    letter-spacing: 0.02rem;
+    word-break: break-all;
+    
+    /* 3 行文字截断，超出显示省略号 */
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}
+.card-cover {
+    width: 120px;
+    height: 80px;
+    border-radius: 8px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    margin-left: 10px;
+}
+.card-cover a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.card-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: 0 !important;
+}
 </style>
-<div class="recently-updated">
-    <div class="recently-updated-item">
-        <span>2026-01-29</span>
-        <a href="citations/2026/01/28/citation-1-s%C3%A9ance-du-30-juillet-1994/" target="_blank">Citation 1, séance du 30 juillet 1994</a>
+
+<div class="article-layout-switcher">
+    <button class="layout-list-btn" title="List View"><span class="material-icons">view_list</span></button>
+    <button class="layout-detail-btn" title="Detail View"><span class="material-icons">view_day</span></button>
+    <button class="layout-grid-btn" title="Grid View"><span class="material-icons">view_module</span></button>
+</div>
+
+<div class="article-grid">
+    <div class="article-card">
+        <a class="card-header" href="about/" target="_blank">
+            <div class="card-title">À propos</div>
+            <time class="dd-timeago card-date" datetime="2026-02-10 22:10:58">2026-02-10</time>
+        </a>
+        <div class="card-body">
+            <div class="card-summary">Avant tout, si vous n&#39;êtes pas familier avec l&#39;expérience Cassiopéenne, veuillez prendre connaissance du volet &#34;Introduction&#34; pour une première approche. D&#39;autre part, nous déconseillons fortement aux gens de lire les transcriptions cassiopéennes en dehors du contexte fourni par le travail de Laura. Car d&#39;après notre expérience, les gens les interprètent souvent de manière erronée et ont tendance à y projeter leurs propres idées, croyances et préjugés. Nous conseillons donc au lecteur de les lire dans leur contexte, c&#39;est-à-dire dans la série l&#39;Onde publiée par les éditions Pilule rouge et disponible sur plusieurs platformes internet.  Sur ce site vous trouverez l&#39;ensemble des séances à la date qui s&#39;affiche en haut de la page. Ce travail avance rapidement, pas autant que souhaité,  grâce à l&#39;équipe de traduction du forum dont le travail d&#39;avancement original se trouve ici : Séances des Cassiopéens par date.  Les commentaires ne sont pas autorisés. Ils peuvent être soumis sur le forum dans un sujet créé à cet effet.   Usage   En cliquant sur le menu &#34;Séances&#34;, une liste déroulante sur la gauche affiche les années de parution. En cliquant sur l&#39;année, les séances apparaissent par ordre chronologiques. En cliquant sur l&#39;année, le contenu de la séance apparaît sur la droite.   En laissant la souris survoler un numéro de renvoi de note de bas de page, le contenu de la note apparaît sous forme d&#39;une bulle.   La barre de menu se rétracte lorsqu&#39;on descend sur la page pour une plus grande surface de lecture.   Remonter avec l&#39;aide de la souris refait apparaître la totalité de la barre de menu ainsi qu&#39;un bouton de retour en haut de la page :   Affichage mode sombre/clair/auto en cliquant sur l&#39;icône   Utilisation du champ &#34;Recherche&#34;</div>
+        </div>
     </div>
-    <div class="recently-updated-item">
-        <span>2026-01-29</span>
-        <a href="citations/2026/01/28/citation-1-s%C3%A9ance-du-30-mars-2002/" target="_blank">Citation 1, séance du 30 mars 2002</a>
+    <div class="article-card">
+        <a class="card-header" href="messages%20finaux/" target="_blank">
+            <div class="card-title">C&#39;s messages finaux</div>
+            <time class="dd-timeago card-date" datetime="2026-02-10 22:10:58">2026-02-10</time>
+        </a>
+        <div class="card-body">
+            <div class="card-summary">24 janvier 2026  R : Priez sans cesse. L’univers est pleinement conscient. Au revoir.   27 septembre 2025  R : Faites en sorte de rester discrets à partir de maintenant. Les choses sont sur le point de devenir plus étranges que vous ne pouvez l&#39;imaginer.  [...]  R : Encore une fois, par mesure de sécurité, restez discrets sur les réseaux sociaux. La situation devient un peu plus instable.  [...]  R : « La prudence est de mise !»   28 juin 2025  R : Tous les avertissements ont été donnés. Ils n’expirent pas ! Au revoir.</div>
+        </div>
     </div>
-    <div class="recently-updated-item">
-        <span>2026-01-29</span>
-        <a href="citations/2026/01/28/citation-1-s%C3%A9ance-du-27-ao%C3%BBt-2022/" target="_blank">Citation 1, séance du 27 août 2022</a>
+    <div class="article-card">
+        <a class="card-header" href="s%C3%A9ances/2026/2026-01-24/" target="_blank">
+            <div class="card-title">Séance du 24 janvier 2026</div>
+            <time class="dd-timeago card-date" datetime="2026-02-10 18:29:36">2026-02-10</time>
+        </a>
+        <div class="card-body">
+            <div class="card-summary">Date de la séance : 24 janvier 2026  Laura et Andromeda à la planchette.  Niall, Joe, Gaby, Ark, PoB, Chu, Scottie, Princess Leia.  Membres FOTCM présents via Zoom :  3DStudent, A Jay, Adobe, Aeneas, Alana, Alejo, Aliana, Altair, AnaHuitzil, anartist, Andrian, Anthony, Approaching Infinity, axj, Aya, Beau, Bluefyre, Bobo08, Breton, cassandra, Cosmos, daddycat, Deliverance, Dirgni, Domi, dugdeep, Eboard10, Ellipse, Ennio, fabric, Faith, finduilas495, France, Gawan, genero81, GlaudiaYG, Gottathink, goyacobol, Gwenllian, Harmony99, herondancer, Hesper, Hesperides, honzap, iamthatis, Il Matto, irjO, Iscreamsandwish, Jacques, Jeanne T, JEEP, Jefferson, Jenn, jess, Josi, Juba, Keyhole, Kinyash, KJN, Konstantin, Laurs, loreta, LQB, Luc, Lucius, Luis Miguel, Mark, Maat, maiko, Manitoban, Mari, Mark7, Martina, Meadowwind, Meg, Mike, Mililea, Miracle, mkrnhr, mommycat, Mrs. Peel, msante, Nachtweide, Natus Videre, Navigator, Neema, newtochess, Nicholas, Nienna, Obi, Ollie, OrangeScorpion, Oxajil, PopHistorian, Puma, RedFox, Ryan, rylek, Ryu, Saman, SAO, seek10, seeker2seer, sid, StephRivers, Stoneboss, sToRmR1dR, T. C., Temperance, thorbiorn, Timótheos, Tristan, Tuatha de Danaan, Turgon, Uperios, voyageur, vulcan59, whitecoast, Windmill Knight, Yas, Ysus.  Q : (L) Très bien, très bien, les enfants, nous avons une tonne de questions. Je suppose qu’il vaut mieux ne pas trop nous attarder. Vous savez, c’est une bonne chose que je fasse ceci avec mon bras gauche, car j’ai une tendinite de joueur de tennis – sans le tennis – au bras droit. [Comptant le nombre de pages de questions] Une, deux, trois, quatre, cinq, six, sept, huit, neuf. Neuf pages, et cela après les avoir regroupées ! Voyons combien nous pourrons en traiter. Oh, nous sommes… quelle est la date ? Aujourd’hui, nous sommes le 24 janvier 2026. [Revue des personnes présentes]  R : Koelia de Cassiopée en transmission.  Q : (L) Très bien. Nous avons un tas de questions, et je vais tenter de les organiser un peu.  Q : (L) Très bien, chéri, parlons du voyage dans le temps.  (Ark) Oui ?</div>
+        </div>
     </div>
-    <div class="recently-updated-item">
-        <span>2026-01-29</span>
-        <a href="citations/2026/01/28/citation-1-s%C3%A9ance-du-1er-novembre-2025/" target="_blank">Citation 1, séance du 1er novembre 2025</a>
+    <div class="article-card">
+        <a class="card-header" href="s%C3%A9ances/1998/1998-08-15/" target="_blank">
+            <div class="card-title">Séance du 15 août 1998</div>
+            <time class="dd-timeago card-date" datetime="2026-02-10 15:28:41">2026-02-10</time>
+        </a>
+        <div class="card-body">
+            <div class="card-summary">Date de la séance : 15 août 1998  Frank, Ark, Laura  Q : (L) Bonsoir.  R : Bonsoir.  Q : (L) Et qui est avec nous ce soir ?  R : Mahijm  Q : (L) Et d’où transmettez-vous ?  R : Cassiopée.  Q : (L) Je veux poser des questions sur la situation de la planchette. J’ai pensé à recouvrir la planchette de verre ou de plexiglas. Serait-il conseillé de recouvrir la planchette avec l’un ou l’autre ou devrais-je faire de la table une planchette entière et la recouvrir de verre ?  R : À toi de décider.</div>
+        </div>
     </div>
-    <div class="recently-updated-item">
-        <span>2026-01-29</span>
-        <a href="citations/2026/01/28/citation-2-s%C3%A9ance-du-30-mars-2002/" target="_blank">Citation 2, séance du 30 mars 2002</a>
+    <div class="article-card">
+        <a class="card-header" href="s%C3%A9ances/1997/1997-11-22/" target="_blank">
+            <div class="card-title">Séance du 22 novembre 1997</div>
+            <time class="dd-timeago card-date" datetime="2026-01-26 17:15:34">2026-01-26</time>
+        </a>
+        <div class="card-body">
+            <div class="card-summary">Date de la séance : 22 Novembre 1997  Frank, Laura, Ark, Alice  Q : Bonjour.  R : Bonjour.  Q : Et qui est avec nous ce soir ?  R : Annastasia.  Q : Et d’où transmettez-vous ?  R : Cassiopée.  Q : Nous avons pris les dispositions pour aller au Mexique et il semble que le seul problème possible soit que nous ne puissions pas obtenir le visa d&#39;Ark à temps pour y aller. Avez-vous des conseils à nous donner sur la façon d&#39;accélérer les choses ?  R : Accélérez les choses au consulat mexicain ; expliquez la situation sous l&#39;angle du développement économique.</div>
+        </div>
     </div>
-    <div class="recently-updated-item">
-        <span>2026-01-28</span>
-        <a href="citations/tags/" target="_blank">Tags</a>
+    <div class="article-card">
+        <a class="card-header" href="s%C3%A9ances/1997/1997-11-15/" target="_blank">
+            <div class="card-title">Séance du 15 novembre 1997</div>
+            <time class="dd-timeago card-date" datetime="2026-01-24 18:35:21">2026-01-24</time>
+        </a>
+        <div class="card-body">
+            <div class="card-summary">Date de la séance : 15 Novembre 1997  Terry, Jan, Alice, Frank, Ark &amp;amp; Laura  Q : Bonjour.  R : Bonjour.  Q : Et qui est avec nous ce soir ?  R : Wiappahn.  Q : Et d’où transmettez-vous ?  R : Cassiopée.  Q : Je suppose que vous avez écouté notre discussion, alors réglons la question brûlante du moment : est-il sûr, à l&#39;heure actuelle, que nous nous rendions au Mexique ?  R : Des données plus précises.</div>
+        </div>
     </div>
-    <div class="recently-updated-item">
-        <span>2026-01-28</span>
-        <a href="citations/" target="_blank">Blog</a>
+    <div class="article-card">
+        <a class="card-header" href="s%C3%A9ances/1997/1997-11-08/" target="_blank">
+            <div class="card-title">Séance du 8 novembre 1997</div>
+            <time class="dd-timeago card-date" datetime="2026-01-24 18:35:20">2026-01-24</time>
+        </a>
+        <div class="card-body">
+            <div class="card-summary">Date de la séance : 8 Novembre 1997  Frank, Ark, Laura  Q : Bonjour.  R : Bonjour.  Q : Et qui est avec nous ce soir ?  R : Napponiz.  Q : Et d&#39;où transmettez-vous ?  R : Cassiopée.  Q : Vous avez une fois fait la remarque que l&#39;utilisation de la source pour des questions personnelles la ferait devenir une source SDS corrompue. Maintenant, par nécessité, il semble, et c&#39;est peut-être juste mon point de vue, mais il semble que nous ayons utilisé cette source un certain pourcentage du temps pour des questions et des problèmes personnels. Est-ce que cela a, d&#39;une manière ou d&#39;une autre, corrompu le flux d&#39;informations et tendu à le faire pencher du côté du mode SDS ?  R : Seulement lorsque c&#39;est excessif.</div>
+        </div>
     </div>
-    <div class="recently-updated-item">
-        <span>2026-01-26</span>
-        <a href="s%C3%A9ances/1997/1997-11-22/" target="_blank">Séance du 22 novembre 1997</a>
+    <div class="article-card">
+        <a class="card-header" href="s%C3%A9ances/1997/1997-11-01/" target="_blank">
+            <div class="card-title">Séance du 1 novembre 1997</div>
+            <time class="dd-timeago card-date" datetime="2026-01-24 18:35:20">2026-01-24</time>
+        </a>
+        <div class="card-body">
+            <div class="card-summary">Date de la séance : 1er novembre 1997  Frank, Alice, Terry, Jan, Laura, Ark  Q : Bonjour.  R : Bonjour.  Q : Et qui est avec nous ce soir ?  R : Biominia.  Q : Et d’où transmettez-vous ?  R : Cassiopée.  Q : Nous avons ici les photos de l&#39;aéroport de Denver que Chloé a prises lors de son voyage et nous aimerions peut-être avoir une petite interprétation de cette figure très bizarre. Est-elle censée être regardée dans ce sens ou inversée ?  R : L&#39;un ou l&#39;autre.</div>
+        </div>
+    </div>
+    <div class="article-card">
+        <a class="card-header" href="s%C3%A9ances/1997/1997-10-07/" target="_blank">
+            <div class="card-title">Séance du 7 octobre 1997</div>
+            <time class="dd-timeago card-date" datetime="2026-01-24 18:35:19">2026-01-24</time>
+        </a>
+        <div class="card-body">
+            <div class="card-summary">Date de la séance : 7 octobre 1997  Laura, Frank, Anna  (Note : il y a deux Anna mentionnées dans cette session, l&#39;une est l&#39;ex-femme d&#39;Ark, l&#39;autre est ma fille alias Andromeda sur le forum).  Q : Qui est avec nous ce soir ?  R : Aldronn.  Q : Et d’où transmettez-vous ?  R : Cassiopée.  Q : Ma première question : Y a-t-il une possibilité pour que des actions soient prises contre Ark avant qu&#39;il ne parte selon l&#39;itinéraire prévu ?  R : Vous devez réaliser que des actions ont déjà été prises contre Arkadiusz, elles continuent de l&#39;être, et seront prises contre Arkadiusz, comme cela a été déterminé et est en cours depuis une éternité. Rappelez-vous, tous les événements tels que vous les percevez sont simplement du point de vue de votre perception. Il n&#39;y a ni passé ni futur. Tout ne fait qu’un.  Q : Plus précisément, existe-t-il des plans mis en place pour tenter de l&#39;empêcher de prendre l&#39;avion pour venir ici ?</div>
+        </div>
     </div>
 </div>
 

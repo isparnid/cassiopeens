@@ -2,6 +2,7 @@
 # yaml-language-server:
 # $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
+site_description: Transcriptions des séances Cassiopéennes.
 site_name: Séances des Cassiopéens
 site_url: https://isparnid/github.io/cassiopeens
 repo_url: https://github.com/isparnid/cassiopeens
@@ -9,7 +10,7 @@ repo_name: GitHub
 site_author : Membres du groupe de traduction FOTCM
 use_directory_urls: true
 # extra:
-copyright: Transcriptions des sessions Cassiopéennes copyright &copy 1994-2026 FOTCM, Inc. Tous droits réservés.
+copyright: Transcriptions des séances Cassiopéennes copyright &copy 1994-2026 FOTCM, Inc. Tous droits réservés.
 validation:
   links:
     absolute_links: relative_to_docs
@@ -29,6 +30,7 @@ markdown_extensions:
       permalink: ⚓︎
 theme:
   icon:
+    repo: fontawesome/brands/git-alt
     admonition:
       note: octicons/tag-16
       abstract: octicons/checklist-16
@@ -62,9 +64,6 @@ theme:
     # - navigation.prune
     - toc.follow
     - toc.integrate
-  icon:
-    repo: fontawesome/brands/git-alt
-
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -85,6 +84,7 @@ theme:
         name: Switch to system preference
 plugins:
   - search
+  - rss
   - exclude-search:
       exclude:
         #- about.md
@@ -111,10 +111,11 @@ plugins:
         #- index.md
         #- download.md
         #- introduction.md
-        - citations/*
-        - citations/tags.md
+        #- citations/*
+        #- citations/tags.md
   - tags:
-      tags_file: citations/tags.md
+      tags_sort_by: !!python/name:material.plugins.tags.tag_name_casefold
+      listings_sort_by: !!python/name:material.plugins.tags.item_title
   - blog:
       enabled: true
       blog_dir: citations

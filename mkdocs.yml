@@ -64,6 +64,7 @@ theme:
     # - navigation.prune
     - toc.follow
     - toc.integrate
+    - announce.dismiss
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -113,11 +114,13 @@ plugins:
         #- download.md
         #- introduction.md
         - citations/*
-        - citations/tags.md
   - tags:
+      # for tags metadata page
       tags_sort_by: !!python/name:material.plugins.tags.tag_name_casefold
-      listings_sort_by: !!python/name:material.plugins.tags.item_title
-      tags_sort_reverse: true
+      tags_sort_reverse: false
+      # for tags index list page
+      listings_tags_sort_by: !!python/name:material.plugins.tags.tag_name_casefold
+      listings_tags_sort_reverse: false
   - blog:
       enabled: true
       blog_dir: citations

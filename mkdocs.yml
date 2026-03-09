@@ -9,7 +9,10 @@ repo_url: https://github.com/isparnid/cassiopeens
 repo_name: GitHub
 site_author : Membres du groupe de traduction FOTCM
 use_directory_urls: true
-# extra:
+extra:
+  analytics:
+    provider: google
+    property: G-37X5W8EFZV
 copyright: Transcriptions des séances Cassiopéennes copyright &copy 1994-2026 FOTCM, Inc. Tous droits réservés.
 validation:
   links:
@@ -115,12 +118,15 @@ plugins:
         #- introduction.md
         - citations/*
   - tags:
-      # for tags metadata page
-      tags_sort_by: !!python/name:material.plugins.tags.tag_name_casefold
-      tags_sort_reverse: false
       # for tags index list page
       listings_tags_sort_by: !!python/name:material.plugins.tags.tag_name_casefold
       listings_tags_sort_reverse: false
+      # for list page title
+      listings_sort_by: !!python/name:material.plugins.tags.item_title
+      listings_sort_reverse: true
+      # for tags metadata page
+      tags_sort_by: !!python/name:material.plugins.tags.tag_name_casefold
+      tags_sort_reverse: false
   - blog:
       enabled: true
       blog_dir: citations

@@ -21,6 +21,11 @@ Les commentaires ne sont pas autorisés. Ils peuvent être soumis sur le forum d
 
 * Affichage mode sombre/clair/auto en cliquant sur l'icône ![](assets/dark_light_mode.png)
 
+# Les trois modes d'affichage des documents récents
+![](assets/recent_1.png)
+![](assets/recent_2.png)
+![](assets/recent_3.png)
+
 # Utilisation du champ "Recherche"
 
 - Au fur et à mesure que les termes recherchés sont saisis, les séances concernées s'affichent en temps réel.
@@ -77,16 +82,8 @@ Le code source sous-jacent utilisé pour formater et afficher ce contenu est dis
 
 # En cours
 
-* <s>Publication des séances déjà traduites triées part date,</s>
-* <s>Affichage de la date de publication et de mise à jour,</s>
-* <s>Approbation par l'équipe du copyright,</s>
-* <s>Approbation par l'équipe de la licence (MIT + CC),</s>
-* <s>Suppression des cookies,</s>
-* <s>Adaptation pour lecture sur smartphone,</s>
-* <s>Réordonner le menu,</s>
-* <s>Créer un sujet "Site en français des séances Cassiopéennes" sur le forum,</s>
 * Signifier aux personnes enregistrées la mise à jour du site (publication de nouvelle séance, amélioration du site, etc.) Voir flux RSS,
-* Améliorer le référencement (si nécessaire),
+* Améliorer le référencement (en cours),
 * etc.
 
 

@@ -118,6 +118,8 @@ plugins:
         #- introduction.md
         - citations/*
   - tags:
+      tags_hierarchy: true
+      #tags_hierarchy_separator: .
       # for tags index list page
       listings_tags_sort_by: !!python/name:material.plugins.tags.tag_name_casefold
       listings_tags_sort_reverse: false

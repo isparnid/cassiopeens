@@ -7,6 +7,9 @@ date:
 
 # ﻿Liste des noms des Cassiopéens
 
+**BAYREERA**
+[Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)
+
 **DONARRA**
 [Séance du 05 octobre 1994](../séances/1994/1994-10-05.md)
 

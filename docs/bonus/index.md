@@ -7,18 +7,24 @@ date:
 
 # Bonus
 
-* [**Citations des Cassiopéens**](Citations des Cassiopéens.md)  
+Vous retrouverez dans l’onglet « Bonus » des résumés ou informations sur différents sujets, extraits des séances des C’s. L'objectif de cette compilation des données est de permettre de rassembler dans le même document un sujet commun. 
 
-Cette page liste les répliques les plus pertinentes des C's. (En cours d'écriture).
+Prendre en note que ces documents seront **mis à jour au fur et à mesure** des avancements dans la récolte des données pour le référencement des tags. 
+
+Voici quelques descriptions sur les différents sujets qui sont compilés :
 
 * [**Liste des noms des Cassiopéens**](Liste des noms des Cassiopéens.md)  
 
-Tous les noms utilisés par les C's pour chaque séance. (En cours d'écriture).
+Cette compilation des prénoms que les C’s nous ont transmis, sont référencés pour permettre d’effectuer des recherches sur l’étymologie de chaque nom pour ceux dont ce domaine les intéresse. 
+
+* [**Citations des Cassiopéens**](Citations des Cassiopéens.md)  
+
+Vous retrouverez différents messages qui ont été transmis par les C’s afin de nous permettent d’avancer dans notre travail personnel mais aussi prendre conscience des différentes facettes sur les leçons à apprendre. 
 
 * [**Liste des noms et informations sur les différentes planètes**](Liste des noms des différentes planètes.md)  
 
-Comme son nom l'indique.  (En cours d'écriture).
+Cette compilation des informations sur les différentes planètes, nous permet de mieux comprendre la dynamique du système solaire mais aussi avoir toutes les données concernant leur place, leur impact ainsi que les renseignements sur leur structure, leur environnement et leur habitabilité s’il y a lieu. Ceci nous fait prendre connaissance selon les C’s de nos origines.
 
 * [**Date calendaire**](Date calendaire.md)  
 
-Les dates dans les séances. (En cours d'écriture).
+Dans ce document, toutes les dates qui ont été citées dans les séances sont compilées avec les informations s’y rattachant. Ce qui facilitera les recherches pour faire des liens avec différents événements, et ainsi avoir une vue d’ensemble de l’ordre chronologique selon les informations transmises par les C’s. 

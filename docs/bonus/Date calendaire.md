@@ -51,7 +51,7 @@ Elle s’est désintégrée et a créé notre ceinture d’astéroïde entre Mar
 **8 788 ans av. J.-C.**
 [Session 07 octobre 1994](../séances/1994/1994-10-07.md)
 
-  * Ceci correspond approximativement au passage du groupe cométaire 
+  * Ceci correspond approximativement au passage du groupe cométaire
   * Il n’y a pas eu d’événement historique consigné par les historiens ou légendes ou écrits anciens
 
 **8 649 ans av. J.-C.**
@@ -77,9 +77,8 @@ Elle s’est désintégrée et a créé notre ceinture d’astéroïde entre Mar
   * La planète Mars a dévié de son orbite dû au passage de Vénus
   * Et le groupe cométaire a aussi passé dans notre système solaire pendant cette période
 
-**1 588 ans av. J.-C.*
+**1 588 ans av. J.-C.**
 [Session 07 octobre 1994](../séances/1994/1994-10-07.md)
 
-  * Ceci correspond approximativement au passage du groupe cométaire 
+  * Ceci correspond approximativement au passage du groupe cométaire
   * Ce passage ne serait pas en lien avec la période de l’Exode
-

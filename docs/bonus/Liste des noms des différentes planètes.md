@@ -1,3 +1,9 @@
+---
+title: "Liste des noms et informations sur les différentes planètes"
+date:
+  created: 2026-03-31
+  updated: 2026-03-31
+---
 # Liste des noms et informations sur les différentes planètes
 
 **Corsoca**  
@@ -9,12 +15,14 @@
 [Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)  
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 [Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)
+[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
 
 * 483 400 000 miles du Soleil
 * 88 700 de diamètre
 * Son noyau est solide
 * La planète Jupiter avait un autre nom, soit Yontar
 * Jésus y aurait vécu et participé à des anciennes guerres
+* Les sumériens nommaient Jupiter = Anshar
 
 **Kantek**  
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
@@ -36,6 +44,7 @@
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 [Séance du 05 octobre 1994](../séances/1994/1994-10-05.md)  
 [Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)
+[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
 
 * 141 500 000 miles du Soleil
 * 4 200 miles de diamètre
@@ -46,6 +55,8 @@
 * Ceci a occasionné le déluge sur la Terre, tel que relaté dans la Bible sur Noé
 * Mars/Martek avait beaucoup d’eau pendant cette période
 * Il y a des lunes qui sont des bases construites par les Reptiliens
+* Les Bigfoot/Sasquatch vivent dans des bases sur la planète Mars et ce sont les « esclaves/animaux de compagnies » des Reptiliens
+* Les sumériens nommaient Mars = Marduk
 
 **Mercure = Opatanar**  
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
@@ -74,16 +85,19 @@
 **Saturne = Zendar/Zindar**  
 [Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)  
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
+[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
 
 * 886 700 000 du Soleil
 * 74 500 de diamètre
 * La planète Saturne avait un autre nom, soit Zendar/Zindar
-* Jésus y aurait vécu 
+* Jésus y aurait vécu
+* Les sumériens nommaient Saturne = Gaga
 
 **Terre = Saras**  
 [Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)  
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 [Séance du 05 octobre 1994](../séances/1994/1994-10-05.md)
+[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
 
 * 93 millions de miles du Soleil
 * 7 900 miles de diamètre
@@ -93,6 +107,7 @@
 * Ceci s’est produit il y a près de 27 millions, pendant la période des dinosaures
 * Pendant cette période des dinosaures, la Terre était entourée d’une nappe de vapeur d’eau 
 * La Terre a vécu une période édénique qui s’est passé autour de 309 882 ans.
+* Les sumériens nommaient Terre = Lahmu
 
 **Uranus = Lonoponor**  
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
@@ -109,12 +124,12 @@
 * Zeta Reticuli est une étoile faisant partie d’un système binaire. La constellation s’appelle Réticule
 * Zeta Reticuli, est à une distance de 39 années-lumière de la Terre
 
-
 **Vénus = Pemuntar**  
 [Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)  
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 [Séance du 05 octobre 1994](../séances/1994/1994-10-05.md)  
 [Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)
+[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
 
 * 67 millions de miles du Soleil
 * 7 500 miles de diamètre
@@ -129,6 +144,8 @@
 * Donc, son dernier passage correspond à l’Exode
 * Sa provenance venait d’un autre système extra-solaire, soit à 19 années-lumière
 * La provenance à son origine avant qu’elle commence a erré, était dans la constellation du Bouvier soit près du soleil Arcturus
+* Les sumériens nommaient Vénus = Lahamu
+* Les sumériens avaient représenté la queue de la comète Vénus et le groupe cométaire par un bracelet martelé
 
 **Planète NI = Montonanas**  
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
@@ -150,12 +167,5 @@
 * 1 600 000 000 000 miles du Soleil
 * 46 000 miles de diamètre 
 * Fait d’hydrogène et d’ammoniac
-
-
-
-
-
-
-
 
 

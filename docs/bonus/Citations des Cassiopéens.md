@@ -29,3 +29,16 @@ date:
 « Croire qu’une seule source contient toute la connaissance est contraire à la réalité. »
 
 « Si l’on croit au concept selon lequel manger le fruit de l’arbre de la connaissance apporte toute la connaissance, alors on s’est fait avoir, parce qu’aucune source en particulier ne peut offrir toutes les connaissances. Par conséquent, quand on tombe dans le panneau, on est pris au piège de certains paramètres. Et l’espèce humaine restera contaminée à jamais par ce problème qui se reflète de diverses manières : on cherche toujours la vérité dans une seule voie, au lieu de suivre des myriades de voies ; en outre, on voudrait croire qu’il existe des réponses simplistes à des problèmes et questions très complexes. »
+
+[**Séance du 09 octobre 1994**](../séances/1994/1994-10-09.md)
+
+« Devez expérimenter pour apprendre à pratiquer la précaution. »
+
+[**Séance du 16 octobre 1994**](../séances/1994/1994-10-16.md)
+
+« Il y a toujours de la place pour l’erreur. Souvenez-vous, le libre arbitre est la loi la plus importante de la conscience dans la création. »
+
+« Vous serez au diapason mais si vous forcez les choses, vous courrez le risque de vous égarer. »
+
+
+

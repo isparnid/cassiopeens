@@ -9,17 +9,20 @@ date:
 (Les dates sont approximatives)
 
 **890 millions d’années**  
+
 [Session 07 octobre 1994](../séances/1994/1994-10-07.md)    
 
 * C’est le début du passage du groupe cométaire dans notre système solaire qui par la suite revient à tous les 3 600 ans 
 
 **27 millions d’années**  
+
 [Session 30 septembre 1994](../séances/1994/1994-09-30.md)  
 [Session 07 octobre 1994](../séances/1994/1994-10-07.md)  
 
 * A eu lieu le commencement de l’extinction des dinosaures à la suite d’impacts cométaires
 
 **309 882 ans / 309 000 ans**  
+
 [Session 05 octobre 1994](../séances/1994/1994-10-05.md)  
 [Session 07 octobre 1994](../séances/1994/1994-10-07.md)  
 
@@ -30,18 +33,21 @@ date:
 * Pendant cette période, il y a eu un cataclysme provoqué par le passage du groupe cométaire qui correspond avec la « Chute » de l’Eden
 
 **79 000 ans**  
+
 [Session 30 septembre 1994](../séances/1994/1994-09-30.md)  
 
 * A eu lieu la destruction de la planète Kantek
 * Elle s’est désintégrée et a créé notre ceinture d’astéroïde entre Mars et Jupiter
 
 **12 388 ans av. J.-C.**  
+
 [Session 07 octobre 1994](../séances/1994/1994-10-07.md)  
 
 * Ceci correspond approximativement au passage du groupe cométaire
 * Ce qui est proche du Déluge de Noé
 
 **10 662 ans av. J.-C.**  
+
 [Session 30 septembre 1994](../séances/1994/1994-09-30.md)  
 
 * A eu lieu le Déluge de Noé

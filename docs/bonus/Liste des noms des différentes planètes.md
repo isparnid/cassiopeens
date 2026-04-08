@@ -6,16 +6,18 @@ date:
 ---
 # Liste des noms et informations sur les différentes planètes
 
-**Corsoca**
-[Séance du 16 juillet 1994](../séances/1994/1994-07-16.md)
+**Corsoca**  
+
+[Séance du 16 juillet 1994](../séances/1994/1994-07-16.md)  
 
 * La planète d’où provient le groupe des Cassiopéens
 
-**Jupiter = Yontar**
-[Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
-[Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)
-[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
+**Jupiter = Yontar**  
+
+[Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)  
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
+[Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)  
+[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)  
 
 * 483 400 000 miles du Soleil
 * 88 700 de diamètre
@@ -24,9 +26,10 @@ date:
 * Jésus y aurait vécu et participé à des anciennes guerres
 * Les sumériens nommaient Jupiter = Anshar
 
-**Kantek**
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
-[Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)
+**Kantek**  
+
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
+[Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)  
 
 * Il y avait une civilisation qui vivait sur cette planète, les Kantekkiens
 * Ils ont été créés par les Cassiopéens
@@ -40,11 +43,12 @@ date:
 * Ils sont des descendants aux cheveux blonds et yeux bleus (pigmentation oculaire dû à la distance importante du Soleil)
 
 
-**Mars = Martek = Masar**
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
-[Séance du 05 octobre 1994](../séances/1994/1994-10-05.md)
-[Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)
-[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
+**Mars = Martek = Masar**  
+
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
+[Séance du 05 octobre 1994](../séances/1994/1994-10-05.md)  
+[Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)  
+[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)  
 
 * 141 500 000 miles du Soleil
 * 4 200 miles de diamètre
@@ -58,34 +62,40 @@ date:
 * Les Bigfoot/Sasquatch vivent dans des bases sur la planète Mars et ce sont les « esclaves/animaux de compagnies » des Reptiliens
 * Les sumériens nommaient Mars = Marduk
 
-**Mercure = Opatanar**
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
+**Mercure = Opatanar**  
+
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 
 * 36 millions de miles du Soleil
 * 3 000 miles de diamètre
 
-**Neptune = Jinoar**
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
+**Neptune = Jinoar**  
+
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 
 * 2 794 300 000 miles du Soleil
 * 30 199 de diamètre
 
-**Pluton = Opikimanaras**
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
+**Pluton = Opikimanaras**  
+
+
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 
 * 3 666 100 000 miles du Soleil
 * 1 864 de diamètre
 
-**Qaddeera**
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
+**Qaddeera**  
+
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 
 * Planète faisant partie du système binaire de Zeta Reticuli
 * C’est à cet endroit que nous retrouvons les aliens = Reptiliens ainsi que les Gris
 
-**Saturne = Zendar/Zindar**
-[Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
-[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
+**Saturne = Zendar/Zindar**  
+
+[Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)  
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
+[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)  
 
 * 886 700 000 du Soleil
 * 74 500 de diamètre
@@ -93,11 +103,12 @@ date:
 * Jésus y aurait vécu
 * Les sumériens nommaient Saturne = Gaga
 
-**Terre = Saras**
-[Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
-[Séance du 05 octobre 1994](../séances/1994/1994-10-05.md)
-[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
+**Terre = Saras**  
+
+[Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)  
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
+[Séance du 05 octobre 1994](../séances/1994/1994-10-05.md)  
+[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)  
 
 * 93 millions de miles du Soleil
 * 7 900 miles de diamètre
@@ -109,14 +120,16 @@ date:
 * La Terre a vécu une période édénique qui s’est passé autour de 309 882 ans.
 * Les sumériens nommaient Terre = Lahmu
 
-**Uranus = Lonoponor**
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
+**Uranus = Lonoponor**  
+
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 
 * 1 782 700 000 miles du Soleil
 * 31 566 de diamètre
 
-**Uzuli**
-[Séance du 30 juillet 1994](../séances/1994/1994-07-30.md)
+**Uzuli**  
+
+[Séance du 30 juillet 1994](../séances/1994/1994-07-30.md)  
 
 * Planète faisant partie de Zeta Reticuli
 * Elle est la quatrième sur les 7 planètes
@@ -124,12 +137,13 @@ date:
 * Zeta Reticuli est une étoile faisant partie d’un système binaire. La constellation s’appelle Réticule
 * Zeta Reticuli, est à une distance de 39 années-lumière de la Terre
 
-**Vénus = Pemuntar**
-[Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
-[Séance du 05 octobre 1994](../séances/1994/1994-10-05.md)
-[Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)
-[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
+**Vénus = Pemuntar**  
+
+[Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)  
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
+[Séance du 05 octobre 1994](../séances/1994/1994-10-05.md)  
+[Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)  
+[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)  
 
 * 67 millions de miles du Soleil
 * 7 500 miles de diamètre
@@ -147,22 +161,25 @@ date:
 * Les sumériens nommaient Vénus = Lahamu
 * Les sumériens avaient représenté la queue de la comète Vénus et le groupe cométaire par un bracelet martelé
 
-**Planète NI = Montonanas**
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
+**Planète NI = Montonanas**  
+
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 
 * 570 000 000 000 miles du Soleil
 * Matière solide
 * 7 000 miles de diamètre
 
-**Planète NII = Suvurutarcar**
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
+**Planète NII = Suvurutarcar**  
+
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 
 * 830 000 000 000 miles du Soleil
 * 18 000 miles de diamètre
 * Fait d’hydrogène et d’ammoniac
 
-**Planète NIII = Bikalamanar**
-[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
+**Planète NIII = Bikalamanar**  
+
+[Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 
 * 1 600 000 000 000 miles du Soleil
 * 46 000 miles de diamètre 

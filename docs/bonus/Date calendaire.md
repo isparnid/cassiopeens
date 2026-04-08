@@ -35,13 +35,13 @@ date:
 * A eu lieu la destruction de la planète Kantek
 * Elle s’est désintégrée et a créé notre ceinture d’astéroïde entre Mars et Jupiter
 
-**12 388 ans av. J.-C.** 
+**12 388 ans av. J.-C.**
 [Session 07 octobre 1994](../séances/1994/1994-10-07.md)
 
 * Ceci correspond approximativement au passage du groupe cométaire
 * Ce qui est proche du Déluge de Noé
 
-**10 662 ans av. J.-C.** 
+**10 662 ans av. J.-C.**
 [Session 30 septembre 1994](../séances/1994/1994-09-30.md)
 
 * A eu lieu le Déluge de Noé

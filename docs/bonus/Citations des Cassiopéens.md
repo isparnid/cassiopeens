@@ -40,5 +40,3 @@ date:
 
 « Vous serez au diapason mais si vous forcez les choses, vous courrez le risque de vous égarer. »
 
-
-

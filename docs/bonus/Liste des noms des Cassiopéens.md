@@ -5,7 +5,7 @@ date:
   updated: 2026-03-31
 ---
 
-# ﻿Liste des noms des Cassiopéens
+# Liste des noms des Cassiopéens
 
 **BADEREA**
 [Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)

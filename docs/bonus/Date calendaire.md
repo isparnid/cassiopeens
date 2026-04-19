@@ -46,6 +46,13 @@ date:
 * Ceci correspond approximativement au passage du groupe cométaire
 * Ce qui est proche du Déluge de Noé
 
+**12 000 ans av. J.-C.** 
+
+[Session 22 octobre 1994](../séances/1994/1994-10-22.md)  
+[Session 23 octobre 1994](../séances/1994/1994-10-23.md)
+
+* Débarquement des Nephilims qui ont été amenés sur la Terre par les Gris/Reptilien
+
 **10 662 ans av. J.-C.** 
 
 [Session 30 septembre 1994](../séances/1994/1994-09-30.md)
@@ -79,6 +86,14 @@ date:
 
 * Les Aryens ont envahi la région de l’Inde
 * Il y avait à cette époque en Inde des « tribus asiatiques » et des hommes Néandertal
+
+**6 000 ans av. J.-C.**
+
+[Session 22 octobre 1994](../séances/1994/1994-10-22.md)  
+[Session 23 octobre 1994](../séances/1994/1994-10-23.md)
+
+* Dernier Nephilim vivant sur la Terre
+* Construction de Stonehenge par les Druides (groupe des premiers Aryens)
 
 **5 633 ans av. J.-C.**
 
@@ -123,6 +138,12 @@ date:
 
 * Ceci correspond approximativement au passage du groupe cométaire 
 * Ce passage ne serait pas en lien avec la période de l’Exode
+
+**1 114 ans av. J.-C.**
+
+[Session 22 octobre 1994](../séances/1994/1994-10-22.md)
+
+* Construction de la cité Angkor Wat par les Reptiliens
 
 **1 071 ans av. J.-C.**
 

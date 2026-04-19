@@ -7,6 +7,9 @@ date:
 
 # ﻿Liste des noms des Cassiopéens
 
+**ALORRA**
+[Séance du 22 octobre 1994](../séances/1994/1994-10-22.md)
+
 **BADEREA**
 [Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
 
@@ -28,6 +31,9 @@ date:
 **ELMINOIA**
 [Séance du 20 octobre 1994](../séances/1994/1994-10-20.md)
 
+**ENDUANDA**
+[Séance du 22 octobre 1994](../séances/1994/1994-10-22.md)
+
 **MUCPEOR**
 [Séance du 16 juillet 1994](../séances/1994/1994-07-16.md)
 
@@ -36,6 +42,9 @@ date:
 
 **NONIGERA**
 [Séance du 19 octobre 1994](../séances/1994/1994-10-19.md)
+
+**ONOKOIA**
+[Séance du 23 octobre 1994](../séances/1994/1994-10-23.md)
 
 **PAMTHORA**
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)

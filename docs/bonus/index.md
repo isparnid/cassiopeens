@@ -17,7 +17,7 @@ Voici quelques descriptions sur les différents sujets qui sont compilés :
 
 Cette compilation des prénoms que les C’s nous ont transmise est référencée pour permettre d’effectuer des recherches sur l’étymologie de chaque nom pour ceux dont ce domaine les intéresse. 
 
-* [**Citations brève des Cassiopéens**](Citations des Cassiopéens.md)
+* [**Citations brèves des Cassiopéens**](Citations des Cassiopéens.md)
 
 Vous retrouverez différents messages qui ont été transmis par les C’s afin de nous permettre d’avancer dans notre travail personnel mais aussi prendre conscience des différentes facettes sur les leçons à apprendre.
 

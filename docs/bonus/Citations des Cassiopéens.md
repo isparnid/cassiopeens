@@ -1,11 +1,11 @@
 ---
-title: "Citations brève des Cassiopéens"
+title: "Citations brèves des Cassiopéens"
 date:
   created: 2026-03-31
   updated: 2026-04-09
 ---
 
-# Citations brève des Cassiopéens
+# Citations brèves des Cassiopéens
 
 [**Séance du 16 juillet 1994**](../séances/1994/1994-07-16.md)
 

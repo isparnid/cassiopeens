@@ -233,7 +233,7 @@
             Séances des Cassiopéens
           </span>
           <span class="md-build-date" aria-hidden="true">
-            à la date du 19 Apr 2026 - 20:47
+            à la date du 25 Apr 2026 - 19:49
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -16251,6 +16251,7 @@ var month  = (new Date).getMonth();
 var months = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
 document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.getFullYear())</script></strong></u>, ce site contient toutes les séances des <strong><u>Cassiopéens</u></strong> traduites en français.  Il n'utilise que des fichiers statiques. Pas de bases de données. Pas de cryptage. Toutes les données sont disponibles. Merci aux membres du groupe de traduction du FOTCM.</p>
 <h2 id="derniers-documents-mis-a-jour">Derniers documents mis à jour<a class="headerlink" href="#derniers-documents-mis-a-jour" title="Permanent link">⚓︎</a></h2><style>
+/* --- 视图选择器 --- */
 .article-layout-switcher {
     display: flex;
     justify-content: flex-end;
@@ -16284,7 +16285,7 @@ document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.g
     font-size: 20px;
 }
 
-/* --- 网格模式 (默认) --- */
+/* --- 三种视图 --- */
 .article-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -16292,15 +16293,18 @@ document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.g
     margin: 20px 0;
     /* transition: all 0.2s ease; */
 }
-
-/* --- 详情模式 (is-detail) --- */
 .article-grid.is-detail {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
     margin-left: auto;
     margin-right: auto;
 }
-
-/* --- 列表模式 (is-list) --- */
+.article-grid.is-detail .card-summary {
+    --summary-lines: var(--summary-lines-detail);
+}
+.article-grid.is-detail .card-cover {
+    width: 135px;
+    height: 90px;
+}
 .article-grid.is-list {
     margin-left: auto;
     margin-right: auto;
@@ -16311,6 +16315,9 @@ document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.g
     padding: 12px;
 }
 .article-grid.is-list .card-body {
+    display: none;
+}
+.article-grid.is-list .card-footer {
     display: none;
 }
 .article-grid.is-list .article-card {
@@ -16331,7 +16338,7 @@ document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.g
     margin-right: 0;
 }
 
-
+/* --- Card --- */
 .article-card {
     border: 1px solid rgba(142, 142, 142, 0.2);
     border-radius: 8px;
@@ -16340,13 +16347,14 @@ document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.g
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
+    height:100%;
 }
 
-/* --- 第一行：标题与时间 --- */
+/* --- Header --- */
 .card-header {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: baseline;
     text-decoration: none;
 }
 .card-title {
@@ -16356,10 +16364,12 @@ document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.g
     margin-right: 12px;
 }
 .card-date {
-    font-size: 0.84em;
-    color: rgba(100, 100, 100, 0.4);
+    font-size: 0.8em;
+    color: rgba(100, 100, 100, 0.6);
     white-space: nowrap;
     margin-right: 10px;
+    /* 补偿 baseline 布局时字体度量的误差 */
+    transform: translateY(-1px);
 }
 .card-header:hover,
 .card-header:focus {
@@ -16370,37 +16380,44 @@ document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.g
     text-decoration: underline;
 }
 
-/* --- 第二行：摘要与封面图 --- */
+/* --- Body --- */
 .card-body {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     margin-top: 12px;
 }
 .card-summary {
-    flex: 1;
-    color: rgba(142, 142, 142, 1);
+    --summary-lines: var(--summary-lines-grid, 4);
+    --lh: 1.8em;
+
+    line-height: var(--lh);
+    max-height: calc(var(--summary-lines) * var(--lh));
+
+    overflow: clip;
+    pointer-events: none;
+
+    color: var(--md-default-fg-color--light, rgb(121, 121, 121));
     font-size: 0.7rem;
-    line-height: 1.6;
     letter-spacing: 0.02rem;
     word-break: break-all;
-    
-    /* 3 行文字截断，超出显示省略号 */
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 3;
-    overflow: hidden;
+
+    -webkit-mask-image: linear-gradient(
+        to bottom,
+        black calc(100% - var(--lh)*1.2),
+        transparent 100%
+    );
+    mask-image: linear-gradient(
+        to bottom,
+        black calc(100% - var(--lh)*1.2),
+        transparent 100%
+    );
 }
 .card-cover {
-    width: 120px;
-    height: 80px;
-    border-radius: 8px;
-    flex-shrink: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    float: right;
+    width: 105px;
+    height: 70px;
+    margin: 2px 0 0 10px;
+    border-radius: 4px;
     overflow: hidden;
-    margin-left: 10px;
+
     transition: filter 0.3s ease;
 
     /* Safari 圆角闪烁修复 */
@@ -16433,6 +16450,55 @@ document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.g
 .card-cover:hover img {
     transform: scale(1.1) translateX(4px) translateZ(0);
 }
+.card-body::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+/* --- Footer --- */
+.card-footer {
+    display: flex;
+    align-items: center;
+    margin-top: auto;
+    padding-top: 12px;
+    margin-bottom: -4px;
+    font-size: 0.75rem;
+    line-height: 1.6;
+}
+.card-footer .read-time {
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.65rem;
+    color: rgba(100, 100, 100, 0.6);
+    white-space: nowrap;
+    margin-right: 12px;
+}
+.card-footer .read-time-icon {
+    font-size: 0.8rem;
+    opacity: .7;
+    margin-right: 4px;
+}
+
+.md-typeset .md-tags:not([hidden]) {
+    margin: 0 0 0 auto;
+    display: flex;
+    align-items: center;
+    min-width: 0;
+    gap: 0;
+    flex-wrap: nowrap;
+    overflow: hidden;
+}
+.md-typeset .md-tag {
+    font-weight: 400;
+    flex-shrink: 0;
+    gap: 0;
+    color: var(--md-default-fg-color--light);
+    margin-right: 6px;
+}
+.md-typeset .md-tag-icon::before {
+    margin-right: 4px;
+}
 </style>
 
 <div class="article-layout-switcher">
@@ -16441,86 +16507,117 @@ document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.g
     <button class="layout-grid-btn"><span class="material-icons">view_module</span></button>
 </div>
 
-<div class="article-grid">
+<div class="article-grid"
+     style="
+        --summary-lines-grid: 4;
+        --summary-lines-detail: 6;
+     ">
     <div class="article-card">
-        <a class="card-header" href="bonus/Citations%20des%20Cassiop%C3%A9ens/" target="_blank">
+        <a class="card-header" href="/github.io/cassiopeens/bonus/Citations%20des%20Cassiop%C3%A9ens/" target="_blank">
             <div class="card-title">Citations brèves des Cassiopéens</div>
-            <time class="dd-timeago card-date" datetime="2026-04-19 22:46:15">2026-04-19</time>
+            <time class="dd-timeago card-date" datetime="2026-04-19T22:47:24+02:00">2026-04-19</time>
         </a>
         <div class="card-body">
             <div class="card-summary">Séance du 16 juillet 1994  « La conscience protège. L’ignorance expose au péril. »  « Pas besoin de protection si vous avez la connaissance. »  Séance du 30 juillet 1994  « Qu’est-ce qui est choisi ? Vous seuls pouvez choisir. Le choix dépend de votre nature, du libre arbitre, de l’observation et de l’écoute. Ce n’est pas où vous êtes qui est important. C’est qui vous êtes et aussi ce que vous voyez. »  Séance du 30 septembre 1994  « Que tous les hommes sont aimés du créateur et sont un avec lui. »  Séance du 05 octobre 1994  « La masse affecte le transfert électromagnétique au sein de l’onde de gravité »  « La masse affecte le cycle temporel : petite équivaut à cycle court ; grande ou dense équivaut à cycle long. »</div>
         </div>
-    </div>
-    <div class="article-card">
-        <a class="card-header" href="bonus/" target="_blank">
-            <div class="card-title">Bonus</div>
-            <time class="dd-timeago card-date" datetime="2026-04-19 22:42:28">2026-04-19</time>
-        </a>
-        <div class="card-body">
-            <div class="card-summary">Vous retrouverez dans l’onglet « Bonus » des résumés ou informations sur différents sujets, extraits des séances des C’s. Cette compilation des données est pour permettre de rassembler dans le même document sur un sujet commun.  Prendre en note que ces documents seront mis à jour au fur et à mesure des avancements dans la récolte des données pour le référencement des tags.  Voici quelques descriptions sur les différents sujets qui sont compilés :   Liste des noms des Cassiopéens  Cette compilation des prénoms que les C’s nous ont transmise est référencée pour permettre d’effectuer des recherches sur l’étymologie de chaque nom pour ceux dont ce domaine les intéresse.   Citations brèves des Cassiopéens  Vous retrouverez différents messages qui ont été transmis par les C’s afin de nous permettre d’avancer dans notre travail personnel mais aussi prendre conscience des différentes facettes sur les leçons à apprendre.   Liste des noms et informations sur les différentes planètes  Cette compilation des informations sur les différentes planètes, nous permet de mieux comprendre la dynamique du système solaire mais aussi d&#39;avoir toutes les données concernant leur place, leur impact ainsi que les renseignements sur leur structure, leur environnement et leur habitabilité s’il y a lieu. Ceci nous fait prendre connaissance selon les C’s de nos origines.   Date calendaire</div>
+        <div class="card-footer">
+            <span class="read-time"><span class="read-time-icon material-icons">hourglass_top</span>2 min de lecture</span>
         </div>
     </div>
     <div class="article-card">
-        <a class="card-header" href="bonus/Date%20calendaire/" target="_blank">
+        <a class="card-header" href="/github.io/cassiopeens/bonus/" target="_blank">
+            <div class="card-title">Bonus</div>
+            <time class="dd-timeago card-date" datetime="2026-04-19T22:42:28+02:00">2026-04-19</time>
+        </a>
+        <div class="card-body">
+            <div class="card-summary">Vous retrouverez dans l’onglet « Bonus » des résumés ou informations sur différents sujets, extraits des séances des C’s. Cette compilation des données est pour permettre de rassembler dans le même document sur un sujet commun.  Prendre en note que ces documents seront mis à jour au fur et à mesure des avancements dans la récolte des données pour le référencement des tags.  Voici quelques descriptions sur les différents sujets qui sont compilés :   Liste des noms des Cassiopéens  Cette compilation des prénoms que les C’s nous ont transmise est référencée pour permettre d’effectuer des recherches sur l’étymologie de chaque nom pour ceux dont ce domaine les intéresse.   Citations brèves des Cassiopéens  Vous retrouverez différents messages qui ont été transmis par les C’s afin de nous permettre d’avancer dans notre travail personnel mais aussi prendre conscience des différentes facettes sur les leçons à apprendre.   Liste des noms et informations sur les différentes planètes  Cette compilation des informations sur les différentes planètes, nous permet de mieux comprendre la dynamique du système solaire mais aussi d'avoir toutes les données concernant leur place, leur impact ainsi que les renseignements sur leur structure, leur environnement et leur habitabilité s’il y a lieu. Ceci nous fait prendre connaissance selon les C’s de nos origines.   Date calendaire</div>
+        </div>
+        <div class="card-footer">
+            <span class="read-time"><span class="read-time-icon material-icons">hourglass_top</span>2 min de lecture</span>
+        </div>
+    </div>
+    <div class="article-card">
+        <a class="card-header" href="/github.io/cassiopeens/bonus/Date%20calendaire/" target="_blank">
             <div class="card-title">Date calendaire</div>
-            <time class="dd-timeago card-date" datetime="2026-04-19 22:38:36">2026-04-19</time>
+            <time class="dd-timeago card-date" datetime="2026-04-19T22:38:36+02:00">2026-04-19</time>
         </a>
         <div class="card-body">
             <div class="card-summary">(Les dates sont approximatives)  890 millions d’années  Session 07 octobre 1994   C’est le début du passage du groupe cométaire dans notre système solaire qui par la suite revient à tous les 3 600 ans  27 millions d’années  Session 30 septembre 1994  Session 07 octobre 1994   A eu lieu le commencement de l’extinction des dinosaures à la suite d’impacts cométaires  309 882 ans / 309 000 ans  Session 05 octobre 1994</div>
         </div>
-    </div>
-    <div class="article-card">
-        <a class="card-header" href="bonus/Liste%20des%20noms%20des%20diff%C3%A9rentes%20plan%C3%A8tes/" target="_blank">
-            <div class="card-title">Liste des noms et informations sur les différentes planètes</div>
-            <time class="dd-timeago card-date" datetime="2026-04-19 16:56:17">2026-04-19</time>
-        </a>
-        <div class="card-body">
-            <div class="card-summary">Ankhiar  Séance du 23 octobre 1994   L’origine de la race humaine aurait vécu sur cette planète   Elle serait près de la région de la constellation du Scorpion   L’ankh est un ancien symbole de cette planète. Symbole féminin. Représente la planète mère.  Dorlaqua  Séance du 22 octobre 1994   C’est la planète d’origine de la race alien Nephilim   Elle fait partie de la constellation d&#39;Orion   Ils ont été capturés par les Reptilien/Gris et reprogrammés pour devenir esclave et amener sur la Terre</div>
+        <div class="card-footer">
+            <span class="read-time"><span class="read-time-icon material-icons">hourglass_top</span>3 min de lecture</span>
         </div>
     </div>
     <div class="article-card">
-        <a class="card-header" href="bonus/Liste%20des%20noms%20des%20Cassiop%C3%A9ens/" target="_blank">
+        <a class="card-header" href="/github.io/cassiopeens/bonus/Liste%20des%20noms%20des%20Cassiop%C3%A9ens/" target="_blank">
             <div class="card-title">Liste des noms des Cassiopéens</div>
-            <time class="dd-timeago card-date" datetime="2026-04-19 16:51:02">2026-04-19</time>
+            <time class="dd-timeago card-date" datetime="2026-04-19T22:38:36+02:00">2026-04-19</time>
         </a>
         <div class="card-body">
             <div class="card-summary">ALORRA  Séance du 22 octobre 1994  BADEREA  Séance du 09 octobre 1994  BAYREERA  Séance du 07 octobre 1994  CEDERRA  Séance du 16 octobre 1994  DEDEBA  Séance du 18 octobre 1994</div>
         </div>
+        <div class="card-footer">
+            <span class="read-time"><span class="read-time-icon material-icons">hourglass_top</span>1 min de lecture</span>
+        </div>
     </div>
     <div class="article-card">
-        <a class="card-header" href="./" target="_blank">
+        <a class="card-header" href="/github.io/cassiopeens/bonus/Liste%20des%20noms%20des%20diff%C3%A9rentes%20plan%C3%A8tes/" target="_blank">
+            <div class="card-title">Liste des noms et informations sur les différentes planètes</div>
+            <time class="dd-timeago card-date" datetime="2026-04-19T22:38:36+02:00">2026-04-19</time>
+        </a>
+        <div class="card-body">
+            <div class="card-summary">Ankhiar  Séance du 23 octobre 1994   L’origine de la race humaine aurait vécu sur cette planète   Elle serait près de la région de la constellation du Scorpion   L’ankh est un ancien symbole de cette planète. Symbole féminin. Représente la planète mère.  Dorlaqua  Séance du 22 octobre 1994   C’est la planète d’origine de la race alien Nephilim   Elle fait partie de la constellation d'Orion   Ils ont été capturés par les Reptilien/Gris et reprogrammés pour devenir esclave et amener sur la Terre</div>
+        </div>
+        <div class="card-footer">
+            <span class="read-time"><span class="read-time-icon material-icons">hourglass_top</span>5 min de lecture</span>
+        </div>
+    </div>
+    <div class="article-card">
+        <a class="card-header" href="/github.io/cassiopeens/./" target="_blank">
             <div class="card-title">Accueil</div>
-            <time class="dd-timeago card-date" datetime="2026-04-11 15:54:56">2026-04-11</time>
+            <time class="dd-timeago card-date" datetime="2026-04-11T15:54:56+02:00">2026-04-11</time>
         </a>
         <div class="card-body">
-            <div class="card-summary">Depuis le &lt;u&lt;scriptconst ladate = new Date(2026,4,2);  var day = (new Date).getDay()  var days = [&#34;dimanche&#34;, &#34;lundi&#34;, &#34;mardi&#34;, &#34;mercredi&#34;, &#34;jeudi&#34;, &#34;vendredi&#34;, &#34;samedi&#34;];  var month  = (new Date).getMonth();  var months = [&#34;janvier&#34;, &#34;février&#34;, &#34;mars&#34;, &#34;avril&#34;, &#34;mai&#34;, &#34;juin&#34;, &#34;juillet&#34;, &#34;août&#34;, &#34;septembre&#34;, &#34;octobre&#34;, &#34;novembre&#34;, &#34;décembre&#34;];  document.write((days[day])+&#34; &#34;+ladate.getDate()+&#34; &#34;+(months[month])+&#34; &#34;+ladate.getFullYear())&lt;/script&lt;/u, ce site contient toutes les séances des &lt;uCassiopéens&lt;/u traduites en français.  Il n&#39;utilise que des fichiers statiques. Pas de bases de données. Pas de cryptage. Toutes les données sont disponibles. Merci aux membres du groupe de traduction du FOTCM.   Derniers documents mis à jour   Ressources   Site web des Cassiopéens - Œuvres de la mystique scientifique Laura Knight-Jadczyk, à l&#39;origine de The Cassiopaean Experiment.   Forum des Cassiopéens- Forum de discussion sur divers sujets liés à la Communauté de l&#39;esprit cosmique (Fellowship of the Cosmic Mind, FOTCM).</div>
+            <div class="card-summary">Depuis le <u><script>const ladate = new Date(2026,4,2);  var day = (new Date).getDay()  var days = ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"];  var month  = (new Date).getMonth();  var months = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];  document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.getFullYear())</script></u>, ce site contient toutes les séances des <u>Cassiopéens</u> traduites en français.  Il n'utilise que des fichiers statiques. Pas de bases de données. Pas de cryptage. Toutes les données sont disponibles. Merci aux membres du groupe de traduction du FOTCM.   Derniers documents mis à jour   Ressources   Site web des Cassiopéens - Œuvres de la mystique scientifique Laura Knight-Jadczyk, à l'origine de The Cassiopaean Experiment.   Forum des Cassiopéens- Forum de discussion sur divers sujets liés à la Communauté de l'esprit cosmique (Fellowship of the Cosmic Mind, FOTCM).</div>
+        </div>
+        <div class="card-footer">
+            <span class="read-time"><span class="read-time-icon material-icons">hourglass_top</span>1 min de lecture</span>
         </div>
     </div>
     <div class="article-card">
-        <a class="card-header" href="s%C3%A9ances/1994/1994-10-05/" target="_blank">
-            <div class="card-title">Séance du 5 octobre 1994</div>
-            <time class="dd-timeago card-date" datetime="2026-04-08 17:02:10">2026-04-08</time>
+        <a class="card-header" href="/github.io/cassiopeens/s%C3%A9ances/1998/1998-02-21/" target="_blank">
+            <div class="card-title">Séance du 21 février 1998</div>
+            <time class="dd-timeago card-date" datetime="2026-04-03T21:08:54+02:00">2026-04-03</time>
         </a>
         <div class="card-body">
-            <div class="card-summary">Séance du 5 octobre 1994  Il s’agissait d’une autre séance où je posais des questions tous azimuts, changeais de sujet, revenais sur ce qu’ils avaient déjà dit, et tentais dans l’ensemble de désarçonner les C’s en vue de les tester.  Participants : « Frank » et Laura  Q : Bonjour.  R : Vous faites bien de faire de cette façon sans rituel.  Q : (L) Quel rituel voulez-vous que nous pratiquions ?  R : Aucun.  Q : (L) Le rituel renforce-t-il ou empêche-t-il la communication ?  R : Restreint.  Q : (L) Quel est votre nom ?</div>
+            <div class="card-summary">Date de la séance : 21 Février 1998  Frank, Laura, Ark, Alice  Q : Bonjour.  R : Bonjour.  Q : Et qui est avec nous ce soir ?  R : Sycoritia.  Q : Et d’où transmettez-vous ?  R : Cassiopée.  Q : Nous avons quelques livres ce soir et Ark a quelques questions... (A) J'ai une question, elle n'est pas tout à fait personnelle puisque, avec nous, le personnel est mélangé à l'universel donc j'ai eu l'idée d'envoyer une lettre à G B d'Enterprise Florida et je ne suis pas sûr qu'il soit la bonne personne à qui l'envoyer, donc j'aimerais avoir un conseil ?  R : Oui.</div>
+        </div>
+        <div class="card-footer">
+            <span class="read-time"><span class="read-time-icon material-icons">hourglass_top</span>8 min de lecture</span>
         </div>
     </div>
     <div class="article-card">
-        <a class="card-header" href="s%C3%A9ances/1998/1998-06-27/" target="_blank">
+        <a class="card-header" href="/github.io/cassiopeens/s%C3%A9ances/1998/1998-02-28/" target="_blank">
+            <div class="card-title">Séance du 28 février 1998</div>
+            <time class="dd-timeago card-date" datetime="2026-04-03T21:08:54+02:00">2026-04-03</time>
+        </a>
+        <div class="card-body">
+            <div class="card-summary">Date de la séance :  28 février 1998  Laura, Ark, Frank  Q : Bonjour.  R : Bonjour.  Q : Et qui est avec nous ce soir ?  R : Winyonna.  Q : Et d’où transmettez-vous ?  R : Cassiopée.  Q : Très bien, maintenant, juste pour régler notre petit différend : la vidéo sur l'abduction dans le comté de Lake, Minnesota, était-elle vraie ? (La vidéo MacPherson)</div>
+        </div>
+        <div class="card-footer">
+            <span class="read-time"><span class="read-time-icon material-icons">hourglass_top</span>7 min de lecture</span>
+        </div>
+    </div>
+    <div class="article-card">
+        <a class="card-header" href="/github.io/cassiopeens/s%C3%A9ances/1998/1998-06-27/" target="_blank">
             <div class="card-title">Séance du 27 juin 1998</div>
-            <time class="dd-timeago card-date" datetime="2026-04-03 17:49:20">2026-04-03</time>
+            <time class="dd-timeago card-date" datetime="2026-04-03T21:08:54+02:00">2026-04-03</time>
         </a>
         <div class="card-body">
-            <div class="card-summary">Date de la séance : 27 juin 1998  Frank, Ark, Laura  Q : Bonsoir.  R : Bonsoir.  Q : Et qui est avec nous ce soir ?  R : Honnorah.  Q : Et d’où transmettez-vous ?  R : Cassiopée.  Q : C était ici la semaine dernière et a suggéré que nous essayions de prendre des dispositions pour aller en Caroline du Nord et y faire quelques séances. J&#39;aimerais savoir si c&#39;est une bonne idée ?  R : Non.</div>
+            <div class="card-summary">Date de la séance : 27 juin 1998  Frank, Ark, Laura  Q : Bonsoir.  R : Bonsoir.  Q : Et qui est avec nous ce soir ?  R : Honnorah.  Q : Et d’où transmettez-vous ?  R : Cassiopée.  Q : C était ici la semaine dernière et a suggéré que nous essayions de prendre des dispositions pour aller en Caroline du Nord et y faire quelques séances. J'aimerais savoir si c'est une bonne idée ?  R : Non.</div>
         </div>
-    </div>
-    <div class="article-card">
-        <a class="card-header" href="s%C3%A9ances/2024/2024-10-19/" target="_blank">
-            <div class="card-title">Séance du 19 octobre 2024</div>
-            <time class="dd-timeago card-date" datetime="2026-04-03 10:38:05">2026-04-03</time>
-        </a>
-        <div class="card-body">
-            <div class="card-summary">Date de la séance : 19 octobre 2024  Laura et Andromeda à la planchette  Niall, Joe, Gaby, Ark, Chu, Scottie, Princess Leia, Bella, Falkor  Membres FOTCM présents via Zoom :  3DStudent, A Jay, Adobe, Aeneas, Aiming, Alana, Alejo, Aliana, Altair, aluminumfalcon, anartist, AndrewMn, Anthony, Approaching Infinity, Arwenn, Aya, Bluefyre, Bo, Bobo08, Breton, Carl, Cosmos, Deliverance, dugdeep, Eboard10, Ellipse, Ennio, fabric, Faith, finduilas495, France, Glenn, goyacobol, Harmony99, herondancer, Hesper, Hesperides, iamthatis, irjO, iscreamsandwish, Jacques, JeanneT, JEEP, Jefferson, Jenn, Joanne, Josi, Juba, Kari Baba, keyhole, KJN, Konstantin, korzik18, Laurs, Learner, Lilou, Loreta, LQB, Luc, Luis Miguel, Maat, Madara Horseman, maiko, marek760, Mari, Mark, Mike, Mililea, Miracle, mkrnhr, msante, Natus Videre, Navigator, Neil, Nicholas, Nienna, Obi, Ollie, OrangeScorpion, Oxajil, Pecha, Posibility of Being, Puma, RedFox, Redrock12, Regulattor, Ryan, Ryu, Saman, seek10, seeker2seer, Stoneboss, sToRmR1dR, T.C., Thorbjorn, Timótheos, Tristan, Vulcan59, whitecoast, Windmill Knight, Ysus, Z…, Zim  Q : (L) Je vais maintenant vous surprendre. Je n’ai rien dit à personne ici de ce qui m’a préoccupé tout le jour, mais comme certains d’entre vous s’en souviennent peut-être, c’est aujourd’hui l’anniversaire du décès de Pierre. Et pour moi, ça a vraiment été… une journée quelque peu difficile. Les enfants sont allés déposer des fleurs sur la tombe, mais sans moi parce que je ne veux pas voir son nom gravé sur une pierre, ce serait trop réel. Puis j’ai lu plus tôt dans la journée un article que j’ai posté sur X (Twitter) sur les expériences de mort imminente, et j’ai alors pensé que j’aimerais vraiment essayer de parler à Pierre. Je le voudrais sincèrement. Alors je me suis demandé si je n’avais pas perdu la capacité de le faire parce que je me suis calée sur les C’s depuis tant d’années. Quoi qu’il en soit, j’aimerais essayer. Qu’en pensez-vous ? On fait un essai ? Cela ne devrait pas nécessairement nous prendre tout notre temps, mais j’aimerais essayer.  (Joe) Tu n’as qu’à demander aux C’s et ils font le…  (L) Eh bien, je veux essayer de parler directement à Pierre et parfois ce n’est pas toujours facile parce que cela dépend de l’énergie de la personne et tout ça, mais j’ai senti Pierre ici genre toute la journée, et donc j’aimerais vraiment essayer. Et si vous avez tous la patience de rester assis pendant cette expérience, qui peut parfois se révéler longue et parfois ne pas aboutir… J’aimerais essayer. Et ne vous inquiétez pas : j’ai ici vos questions si nous voulons y revenir, mais… Donc, intention, intention. Pierre. Pierre, tu es là ? Et peux-tu communiquer avec nous ?  [Les lettres arrivent très, très lentement]  R : Je suis heureux de pouvoir enfin vous parler</div>
+        <div class="card-footer">
+            <span class="read-time"><span class="read-time-icon material-icons">hourglass_top</span>12 min de lecture</span>
         </div>
     </div>
 </div>

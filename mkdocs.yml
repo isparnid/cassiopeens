@@ -118,7 +118,7 @@ plugins:
         # - index.md
         # - download.md
         # - introduction.md
-        # - citations/*
+        - citations/*
   - tags:
       tags_hierarchy: true
       # tags_hierarchy_separator: .

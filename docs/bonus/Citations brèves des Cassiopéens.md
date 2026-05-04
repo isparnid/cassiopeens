@@ -2,7 +2,7 @@
 title: "Citations brèves des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-04-09
+  updated: 2026-04-30
 ---
 
 # Citations brèves des Cassiopéens
@@ -40,3 +40,11 @@ date:
 « Il y a toujours de la place pour l’erreur. Souvenez-vous, le libre arbitre est la loi la plus importante de la conscience dans la création. »
 
 « Vous serez au diapason mais si vous forcez les choses, vous courrez le risque de vous égarer. »
+
+« Du défi viendra l’extase si tu adoptes la bonne perspective, laquelle ne relève pas, nous le répétons, de la réalité du 3e niveau. »
+
+« Si tu écoutes ceux qui sont fermement ancrés dans le 3e niveau, tu risques de dégrader tes connaissances, malgré toutes les bonnes intentions. »
+
+[**Séance du 28 octobre 1994**](../séances/1994/1994-10-28.md)
+
+« Toute croyance est bénéfique à un certain niveau. »

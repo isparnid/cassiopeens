@@ -2,7 +2,7 @@
 title: "Liste des noms des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-04-09
+  updated: 2026-04-30
 ---
 
 # ﻿Liste des noms des Cassiopéens
@@ -12,6 +12,9 @@ date:
 
 **BADEREA**
 [Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
+
+**BATUVA**
+[Séance du 25 octobre 1994](../séances/1994/1994-10-25.md)
 
 **BAYREERA**
 [Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)
@@ -34,6 +37,9 @@ date:
 **ENDUANDA**
 [Séance du 22 octobre 1994](../séances/1994/1994-10-22.md)
 
+**GURSAEA**
+[Séance du 28 octobre 1994](../séances/1994/1994-10-28.md)
+
 **MUCPEOR**
 [Séance du 16 juillet 1994](../séances/1994/1994-07-16.md)
 
@@ -48,4 +54,3 @@ date:
 
 **PAMTHORA**
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
-

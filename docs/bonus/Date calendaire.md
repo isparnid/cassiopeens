@@ -2,11 +2,17 @@
 title: "Date calendaire"
 date:
   created: 2026-03-31
-  updated: 2026-04-09
+  updated: 2026-04-30
 ---
 
 # Date calendaire
 (Les dates sont approximatives)
+
+**3 milliards d’années**
+
+[Session 22 octobre 1994](../séances/1994/1994-10-22.md)
+
+* C’est à ce moment que la Terre a acquis sa lune qui fut causé par le passage régulier d’un large essaim cométaire qui a provoqué une perturbation gravitationnelle permettant à un large morceau de la surface d’origine de la Terre, qui était un peu moins solide, de se détacher du corps principal et d’adopter une orbite fixe autour du corps principal.
 
 **890 millions d’années**
 
@@ -24,7 +30,9 @@ date:
 **309 882 ans / 309 000 ans**
 
 [Session 05 octobre 1994](../séances/1994/1994-10-05.md)  
-[Session 07 octobre 1994](../séances/1994/1994-10-07.md)
+[Session 07 octobre 1994](../séances/1994/1994-10-07.md)  
+[Session 16 octobre 1994](../séances/1994/1994-10-16.md)  
+[Session 22 octobre 1994](../séances/1994/1994-10-22.md)
 
 * C’était le moment de la « Chute » de l’Eden
 * C’était la période édénique de la Terre
@@ -34,12 +42,13 @@ date:
 
 **79 000 ans**
 
-[Session 30 septembre 1994](../séances/1994/1994-09-30.md)
+[Session 30 septembre 1994](../séances/1994/1994-09-30.md)  
+[Session 07 octobre 1994](../séances/1994/1994-10-07.md)
 
 * A eu lieu la destruction de la planète Kantek
 * Elle s’est désintégrée et a créé notre ceinture d’astéroïde entre Mars et Jupiter
 
-**12 388 ans av. J.-C.** 
+**12 388 ans av. J.-C.** 
 
 [Session 07 octobre 1994](../séances/1994/1994-10-07.md)
 
@@ -63,7 +72,7 @@ date:
 
 [Session 20 octobre 1994](../séances/1994/1994-10-20.md)
 
-* Date qui correspond à l’arrivée des Néphilims par les aliens Reptiliens
+* Date approximative qui correspond à l’arrivée des Néphilims par les aliens Gris/Reptiliens
 
 **8 788 ans av. J.-C.**
 
@@ -76,6 +85,7 @@ date:
 
 [Session 05 octobre 1994](../séances/1994/1994-10-05.md)
 
+* Ce sont les Atlantes qui ont construit la Grande Pyramide
 * Construction de la Grande Pyramide qui servait à capter l’énergie cosmique pour l’utiliser à différentes applications, soit :
 	* Énergie, transport, guérison, contrôle mental, climat, etc.
 * Construction du Sphinx
@@ -121,6 +131,15 @@ date:
 * Date approximative du passage de la « comète » Vénus dans notre système solaire avant de se placer dans son orbite autour du Soleil
 * Arrêt de la construction de la cité Baalbek dû au passage de Vénus
 
+**3 217 ans av. J.-C.**
+
+[Session 25 octobre 1994](../séances/1994/1994-10-25.md)
+
+* C’est lors de cette période qu’aurait vécu Hermès Trismégiste
+* Il serait le traître du Pharaon Rana qui a rompu l'alliance d'unité spirituelle de tous les peuples de la région aujourd'hui connue sous le  nom de Moyen-Orient.
+* Il a semé la discorde parmi les Égyptiens, les Esséniens, les Aryens, les Perses, etc.
+ 
+
 **2 676 ans av. J.-C.**
 
 [Session 30 septembre 1994](../séances/1994/1994-09-30.md)  
@@ -134,6 +153,7 @@ date:
 
 **1 588 ans av. J.-C.**
 
+[Session 05 octobre 1994](../séances/1994/1994-10-05.md)  
 [Session 07 octobre 1994](../séances/1994/1994-10-07.md)
 
 * Ceci correspond approximativement au passage du groupe cométaire 
@@ -149,5 +169,4 @@ date:
 
 [Session 20 octobre 1994](../séances/1994/1994-10-20.md)
 
-* Ceci correspond à la dernière fois que la cité Mohenjo Daro a été habitée de façons continue 
-
+* Ceci correspond à la dernière fois que la cité Mohenjo Daro a été habitée de façons continue

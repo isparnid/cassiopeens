@@ -1,5 +1,8 @@
 # Accueil
 
+## Dorénanvant, le site est accessible depuis [www.cassiopeens.fr](https://www.cassiopeens.fr/)
+Pensez à mettre à jour vos favoris !
+
 Depuis le <u>**<script>const ladate = new Date(2026,4,2);
 var day = (new Date).getDay()
 var days = ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"];

@@ -32,10 +32,11 @@ date:
 [Session 05 octobre 1994](../séances/1994/1994-10-05.md)  
 [Session 07 octobre 1994](../séances/1994/1994-10-07.md)  
 [Session 16 octobre 1994](../séances/1994/1994-10-16.md)  
-[Session 22 octobre 1994](../séances/1994/1994-10-22.md)
+[Session 22 octobre 1994](../séances/1994/1994-10-22.md)  
+[Session 02 novembre 1994](../séances/1994/1994-11-02.md)
 
 * C’était le moment de la « Chute » de l’Eden
-* C’était la période édénique de la Terre
+* La période édénique de la Terre a duré 309 000 ans approximativement avant sa « Chute »
 * Il y eu perte de foi qui a provoqué des limitations physiques et une restriction de la connaissance par les reptiliens
 * Des êtres lézards ont altéré génétiquement la race humaine après la bataille pour leurs propres visées alimentaires
 * Pendant cette période, il y a eu un cataclysme provoqué par le passage du groupe cométaire qui correspond avec la « Chute » de l’Eden
@@ -58,9 +59,12 @@ date:
 **12 000 ans av. J.-C.** 
 
 [Session 22 octobre 1994](../séances/1994/1994-10-22.md)  
-[Session 23 octobre 1994](../séances/1994/1994-10-23.md)
+[Session 23 octobre 1994](../séances/1994/1994-10-23.md)  
+[Session 02 novembre 1994](../séances/1994/1994-11-02.md)
 
 * Débarquement des Nephilims qui ont été amenés sur la Terre par les Gris/Reptilien
+* Ils sont venus 5 fois précédemment sur une période de 309 000 ans
+* Ils reviendront avant la fin de ce cycle que nous vivons présentement
 
 **10 662 ans av. J.-C.** 
 
@@ -70,9 +74,12 @@ date:
 
 **9 046 ans av. J.-C.**
 
-[Session 20 octobre 1994](../séances/1994/1994-10-20.md)
+[Session 20 octobre 1994](../séances/1994/1994-10-20.md)  
+[Session 02 novembre 1994](../séances/1994/1994-11-02.md)
 
 * Date approximative qui correspond à l’arrivée des Néphilims par les aliens Gris/Reptiliens
+* Ils sont venus 5 fois précédemment sur une période de 309 000 ans
+* Ils reviendront avant la fin de ce cycle que nous vivons présentement
 
 **8 788 ans av. J.-C.**
 

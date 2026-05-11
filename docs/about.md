@@ -61,7 +61,7 @@ Dans cette configuration, le moteur de recherche renverra toutes les séances co
 
 On peut exclure un terme d'une recherche en mettant le site "-" devant. Le moteur de recherche renverra toutes les pages contenant **mentale** (le signe "+" est facultatif dans cet exemple).
 
->&#x1F50D;**+4D +SD***
+>&#x1F50D;**+4D +SD**
 
 L'astérisque "\*" permet de remplacer n'importe quel caractère. Dans l'exemple ci-dessus, le moteur de recherche renverra toutes les séances comportant à la fois les termes **4D**, **SDA** et **SDS**.
 

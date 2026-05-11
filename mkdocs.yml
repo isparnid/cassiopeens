@@ -96,7 +96,6 @@ plugins:
         as_creation: date.created
         as_update: date.updated
       image: https://github.com/Guts/mkdocs-rss-plugin/blob/main/docs/assets/logo_rss_plugin_mkdocs.png?raw=true
-
   - exclude-search:
       exclude:
         - about.md
@@ -115,9 +114,9 @@ plugins:
      recently-updated:
        limit: 9              # Limit the number of docs displayed
        exclude:              # Exclude documents you don't want to show
-        # - index.md
+        - index.md
         # - download.md
-        # - introduction.md
+        - introduction.md
         - citations/*
   - tags:
       tags_hierarchy: true

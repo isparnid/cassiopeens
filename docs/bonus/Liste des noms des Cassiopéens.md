@@ -37,6 +37,9 @@ date:
 **ENDUANDA**
 [Séance du 22 octobre 1994](../séances/1994/1994-10-22.md)
 
+**FORI**
+[Séance du 02 novembre 1994](../séances/1994/1994-11-02.md)
+
 **GURSAEA**
 [Séance du 28 octobre 1994](../séances/1994/1994-10-28.md)
 
@@ -54,3 +57,6 @@ date:
 
 **PAMTHORA**
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
+
+**ROLLA**
+[Séance du 04 novembre 1994](../séances/1994/1994-11-04.md)

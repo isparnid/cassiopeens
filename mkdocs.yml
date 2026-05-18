@@ -92,6 +92,7 @@ plugins:
   - meta
   - rss:
       match_path: "citations/posts/.*"
+      use_git: false
       date_from_meta:
         as_creation: date.created
         as_update: date.updated

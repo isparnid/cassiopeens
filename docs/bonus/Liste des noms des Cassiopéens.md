@@ -2,7 +2,7 @@
 title: "Liste des noms des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-04-30
+  updated: 2026-05-21
 ---
 
 # ﻿Liste des noms des Cassiopéens
@@ -60,3 +60,6 @@ date:
 
 **ROLLA**
 [Séance du 04 novembre 1994](../séances/1994/1994-11-04.md)
+
+**VEDEEBA**
+[Séance du 06 novembre 1994](../séances/1994/1994-11-06.md)

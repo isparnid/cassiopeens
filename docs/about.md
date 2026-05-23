@@ -86,7 +86,3 @@ Le code source sous-jacent utilisé pour formater et afficher ce contenu est dis
 * Améliorer le référencement (en cours),
 * etc.
 
-
-
-
-

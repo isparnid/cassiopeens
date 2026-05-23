@@ -2,7 +2,7 @@
 title: "Citations brèves des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-04-30
+  updated: 2026-05-21
 ---
 
 # Citations brèves des Cassiopéens
@@ -48,3 +48,9 @@ date:
 [**Séance du 28 octobre 1994**](../séances/1994/1994-10-28.md)
 
 « Toute croyance est bénéfique à un certain niveau. »
+
+[**Séance du 06 novembre 1994**](../séances/1994/1994-11-06.md)
+
+« Tous doivent chercher pour apprendre. »
+
+

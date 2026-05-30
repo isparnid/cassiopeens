@@ -2,7 +2,7 @@
 title: "Liste des noms des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-05-21
+  updated: 2026-05-29
 ---
 
 # ﻿Liste des noms des Cassiopéens
@@ -40,6 +40,9 @@ date:
 **FORI**
 [Séance du 02 novembre 1994](../séances/1994/1994-11-02.md)
 
+**GOONIAN**
+[Séance du 07 novembre 1994](../séances/1994/1994-11-07.md)
+
 **GURSAEA**
 [Séance du 28 octobre 1994](../séances/1994/1994-10-28.md)
 
@@ -57,6 +60,9 @@ date:
 
 **PAMTHORA**
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
+
+**PROMIA**
+[Séance du 09 novembre 1994](../séances/1994/1994-11-09.md)
 
 **ROLLA**
 [Séance du 04 novembre 1994](../séances/1994/1994-11-04.md)

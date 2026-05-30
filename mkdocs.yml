@@ -13,6 +13,17 @@ extra:
   analytics:
     provider: google
     property: G-37X5W8EFZV
+  social:
+    - icon: /fontawesome/regular/envelope
+      name: Envoyez-moi un email
+      link: mailto:<achat.chafe567@passinbox.com>
+    - icon: /fontawesome/solid/rss-square
+      name: Flux RSS
+      link: https://www.cassiopeens.fr/feed_rss_created.xml
+    - icon: /fontawesome/brands/js-square
+      name: Flux JSON
+      link: https://www.cassiopeens.fr/feed_json_updated.json
+
 copyright: Transcriptions des séances Cassiopéennes copyright &copy 1994-2026 FOTCM, Inc. Tous droits réservés.
 validation:
   links:
@@ -88,7 +99,7 @@ plugins:
   - meta
   - rss:
       match_path: "citations/posts/.*"
-      use_git: false
+      use_git: true
       date_from_meta:
         as_creation: date.created
         as_update: date.updated

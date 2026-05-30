@@ -2,7 +2,7 @@
 title: "Citations brèves des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-05-21
+  updated: 2026-05-29
 ---
 
 # Citations brèves des Cassiopéens
@@ -52,5 +52,31 @@ date:
 [**Séance du 06 novembre 1994**](../séances/1994/1994-11-06.md)
 
 « Tous doivent chercher pour apprendre. »
+
+[**Séance du 07 novembre 1994**](../séances/1994/1994-11-07.md)
+
+« Tous ceux qui servent le soi aspirent à la physicalité. »
+
+« Toutes les morts violentes renvoient des difficultés dans l’incarnation suivante. »
+
+[**Séance du 09 novembre 1994**](../séances/1994/1994-11-09.md)
+
+« En un sens, tous les enseignements sont vérités. »
+
+« Si nous répondions à toutes tes questions, tu n’apprendrais pas. »
+
+[**Séance du 12 novembre 1994**](../séances/1994/1994-11-12.md)
+
+« Nous servons autrui, par conséquent il n’y a pas d’opposition. »
+
+« Imagine un cercle dont les couleurs se mélangent. »
+
+« Oui, nous vous servons et souviens-toi que les Lézards ont programmé votre race au service de soi. »
+
+« Si les fréquences vibratoires sont décalées, nous n’entrons pas en contact. »
+
+« Onde fréquentielle naturelle. Une proche conjonction mélange les deux modes de service et chaque « camp » pour créer l’équilibre parfait. »
+
+« Le service d’autrui apporte le parfait équilibre de ces deux réalités ; le service de soi est l’exact opposé fermant le grand cycle en équilibre parfait. »
 
 

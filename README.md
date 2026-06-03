@@ -4,4 +4,4 @@
 
 Publié sur [Pages github](https://isparnid.github.io/cassiopeens/).
 
-Réalisé avec [Mkdocs-Material](https://squidfunk.github.io/mkdocs-material/).
+Réalisé avec [Mkdocs-Materialx](https://github.com/jaywhj/mkdocs-materialx/).

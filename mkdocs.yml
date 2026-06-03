@@ -56,7 +56,7 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
   language: fr
-  name: material
+  name: materialx
   custom_dir: overrides
   favicon: assets/favicon.jpg
   logo: assets/logo.png

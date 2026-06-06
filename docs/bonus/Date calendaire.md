@@ -2,7 +2,7 @@
 title: "Date calendaire"
 date:
   created: 2026-03-31
-  updated: 2026-05-29
+  updated: 2026-06-05
 ---
 
 # Date calendaire
@@ -33,21 +33,25 @@ date:
 [Séance 07 octobre 1994](../séances/1994/1994-10-07.md)  
 [Séance 16 octobre 1994](../séances/1994/1994-10-16.md)  
 [Séance 22 octobre 1994](../séances/1994/1994-10-22.md)  
-[Séance 02 novembre 1994](../séances/1994/1994-11-02.md)
+[Séance 02 novembre 1994](../séances/1994/1994-11-02.md)  
+[Séance 16 novembre 1994](../séances/1994/1994-11-16.md)
 
-* C’était le moment de la « Chute » de l’Eden
+* C’était le moment de la « Chute » de l’Eden.
 * La période édénique de la Terre a duré 309 000 ans approximativement avant sa « Chute »
 * Il y eu perte de foi qui a provoqué des limitations physiques et une restriction de la connaissance par les reptiliens
 * Des êtres lézards ont altéré génétiquement la race humaine après la bataille pour leurs propres visées alimentaires
 * Pendant cette période, il y a eu un cataclysme provoqué par le passage du groupe cométaire qui correspond avec la « Chute » de l’Eden
 
-**79 000 ans**
+**79 000 ans / 80 000 ans**
 
 [Séance 30 septembre 1994](../séances/1994/1994-09-30.md)  
-[Séance 07 octobre 1994](../séances/1994/1994-10-07.md)
+[Séance 07 octobre 1994](../séances/1994/1994-10-07.md)  
+[Séance 16 novembre 1994](../séances/1994/1994-11-16.md)
 
 * A eu lieu la destruction de la planète Kantek
 * Elle s’est désintégrée et a créé notre ceinture d’astéroïde entre Mars et Jupiter
+* C’est la première fois que la « comète » Vénus passe dans notre système solaire 
+* Elle a passé 7 fois dans notre système solaire avant de se placer sur son orbite autour de notre soleil
 
 **12 388 ans av. J.-C.** 
 
@@ -103,7 +107,7 @@ date:
 
 [Séance 20 octobre 1994](../séances/1994/1994-10-20.md)
 
-* Les Aryens ont envahi la région de l’Inde
+* Les Aryens ont envahi la région de l’Inde.
 * Il y avait à cette époque en Inde des « tribus asiatiques » et des hommes Néandertal
 
 **6 000 ans av. J.-C.**

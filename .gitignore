@@ -1,7 +1,12 @@
-# exclure les répertoires
-site/
+# Environnement virtuel
 .venv/
-# exclure les fichiers de backup gedit
-*~
-# exclure le fichier venv.sh
-venv.sh
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# pip
+pip-log.txt

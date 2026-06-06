@@ -2,7 +2,7 @@
 title: "Citations brèves des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-05-29
+  updated: 2026-06-05
 ---
 
 # Citations brèves des Cassiopéens
@@ -45,6 +45,12 @@ date:
 
 « Si tu écoutes ceux qui sont fermement ancrés dans le 3e niveau, tu risques de dégrader tes connaissances, malgré toutes les bonnes intentions. »
 
+[**Séance du 18 octobre 1994**](../séances/1994/1994-10-18.md)
+
+« Tout est un. Et un est tout. »
+
+« C’est le présent éternel. Non seulement c’est arrivé, mais c’est en train d’arriver, et cela va arriver. La présence élargie. »
+
 [**Séance du 28 octobre 1994**](../séances/1994/1994-10-28.md)
 
 « Toute croyance est bénéfique à un certain niveau. »
@@ -78,5 +84,17 @@ date:
 « Onde fréquentielle naturelle. Une proche conjonction mélange les deux modes de service et chaque « camp » pour créer l’équilibre parfait. »
 
 « Le service d’autrui apporte le parfait équilibre de ces deux réalités ; le service de soi est l’exact opposé fermant le grand cycle en équilibre parfait. »
+
+[**Séance du 16 novembre 1994**](../séances/1994/1994-11-16.md)
+
+« Le temps tel que vous le connaissez n’existe pas ; tout n’est que leçon pour la conscience collective. »
+
+« Mort et naissance sont identiques. »
+
+« La lumière est de première densité et unifie toutes les densités. »
+
+« Lumière et obscurité unifient toutes les densités. »
+
+« Le 7e est la lumière que vous voyez à la mort du corps. »
 
 

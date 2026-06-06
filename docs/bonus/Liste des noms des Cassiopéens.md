@@ -2,7 +2,7 @@
 title: "Liste des noms des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-05-29
+  updated: 2026-06-05
 ---
 
 # ﻿Liste des noms des Cassiopéens
@@ -63,6 +63,9 @@ date:
 
 **PROMIA**
 [Séance du 09 novembre 1994](../séances/1994/1994-11-09.md)
+
+**ROLIGEA**
+[Séance du 16 novembre 1994](../séances/1994/1994-11-16.md)
 
 **ROLLA**
 [Séance du 04 novembre 1994](../séances/1994/1994-11-04.md)

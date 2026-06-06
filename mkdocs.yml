@@ -10,6 +10,7 @@ repo_name: GitHub
 site_author : Membres du groupe de traduction FOTCM
 use_directory_urls: true
 extra:
+  generator: false  # 隐藏页脚 “Made with Material for MkDocs”
   analytics:
     provider: google
     property: G-37X5W8EFZV
@@ -23,6 +24,40 @@ extra:
     - icon: /fontawesome/brands/js-square
       name: Flux JSON
       link: https://www.cassiopeens.fr/feed_json_updated.json
+
+  alternate:
+    - name: 🇫🇷 Français
+      lang: fr
+    - name: 🇨🇳 中文
+      lang: zh
+    - name: 🇺🇸 English
+      lang: en
+    - name: 🇩🇪 Deutsch
+      lang: de
+    - name: 🇷🇺 Русский
+      lang: ru
+    - name: 🇵🇱 Polish
+      lang: pl
+    - name: 🇯🇵 日本語
+      lang: ja
+    - name: 🇳🇱 Dutch
+      lang: nl
+    - name: 🇮🇹 Italian
+      lang: it
+    - name: 🇪🇸 Español
+      lang: es
+    - name: 🇧🇷 Português
+      lang: pt
+    - name: 🇸🇦 العربية
+      lang: ar
+    - name: 🇰🇷 Korea
+      lang: ko
+
+extra_javascript:
+
+  # 加载翻译插件 translate
+  - javascripts/translate.js
+  - javascripts/extra.js
 
 copyright: Transcriptions des séances Cassiopéennes copyright &copy 1994-2026 FOTCM, Inc. Tous droits réservés.
 validation:
@@ -103,6 +138,8 @@ plugins:
       date_from_meta:
         as_creation: date.created
         as_update: date.updated
+        datetime_format: "%d-%m-%Y"
+        default_timezone: Europe/Paris
       image: https://github.com/Guts/mkdocs-rss-plugin/blob/main/docs/assets/logo_rss_plugin_mkdocs.png?raw=true
   - exclude-search:
       exclude:
@@ -114,7 +151,7 @@ plugins:
   - document-dates:
      position: top            # Display position: top(after title) bottom(end of document), default: top
      type: date               # Date type: date datetime timeago, default: date
-     date_format: '%d-%m-%Y'  # Date format strings (e.g., %Y-%m-%d, %b %d, %Y)
+     date_format: '%d-%B-%Y'  # Date format strings (e.g., %Y-%m-%d, %b %d, %Y)
      time_format: '%H:%M:%S'  # Time format strings (valid only if type=datetime)
      show_created: true       # Show creation date: true false, default: true
      show_updated: true       # Show last updated date: true false, default: true
@@ -140,18 +177,20 @@ plugins:
       tags_sort_reverse: false
   - blog:
       enabled: true
+      archive: false
       blog_dir: citations
       blog_toc: false
       post_dir: "{blog}/posts"
-      post_url_max_categories: 1
-      post_slugify_separator: "-"
+      post_url_date_format: yyyy/MM/dd
+      post_url_format: "{date}/{file}"
       post_excerpt: optional
+      # post_url_max_categories: 1
+      # post_slugify_separator: "-"
       # post_excerpt_max_authors: 1
       # post_excerpt_max_categories: 5
       # post_excerpt_separator: <!-- more -->
-      # post_readtime: true
+      post_readtime: false
       # post_readtime_words_per_minute: 265
-      archive: false
       # archive_name: Archive
       # archive_pagination: true
       # archive_pagination_per_page: 10

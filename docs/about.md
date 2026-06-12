@@ -80,9 +80,3 @@ Transcriptions des sessions Cassiopéennes copyright &copy 1994-2026 FOTCM, Inc.
 
 Le code source sous-jacent utilisé pour formater et afficher ce contenu est distribué sous [licence MIT](https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md).
 
-# En cours
-
-* Signifier aux personnes enregistrées la mise à jour du site (publication de nouvelle séance, amélioration du site, etc.) Voir flux RSS,
-* Améliorer le référencement (en cours),
-* etc.
-

@@ -15,3 +15,112 @@
     </tr>
 </table>
 {% endblock %}
+
+{# Macros : définies en haut du fichier (important) #}
+{% macro page_title_from_path(nav_items, src, ns=None) -%}
+  {%- if ns is none -%}
+    {%- set ns = namespace(result='') -%}
+  {%- endif -%}
+  {%- for ni in nav_items -%}
+    {%- if not ns.result -%}
+      {%- if ni.file is defined and ni.file.src_path == src -%}
+        {%- set ns.result = ni.title -%}
+      {%- elif ni.children -%}
+        {%- set _ = page_title_from_path(ni.children, src, ns) -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {{ ns.result }}
+{%- endmacro %}
+
+{% macro page_url_from_path(nav_items, src, ns=None) -%}
+  {%- if ns is none -%}
+    {%- set ns = namespace(result='') -%}
+  {%- endif -%}
+  {%- for ni in nav_items -%}
+    {%- if not ns.result -%}
+      {%- if ni.file is defined and ni.file.src_path == src -%}
+        {%- set ns.result = ni.url -%}
+      {%- elif ni.children -%}
+        {%- set _ = page_url_from_path(ni.children, src, ns) -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {{ ns.result }}
+{%- endmacro %}
+
+{# --- Bloc content principal --- #}
+{% block content %}
+  {# Affiche d'abord les tags/métadonnées existants #}
+  {{ super() }}
+
+  {# Normalise la source du lien : page.meta.links ou page.meta.link #}
+  {% set links = None %}
+  {% if page.meta %}
+    {% if page.meta.links is defined %}
+      {% set links = page.meta.links %}
+    {% elif page.meta.link is defined %}
+      {% set links = page.meta.link %}
+    {% endif %}
+  {% endif %}
+
+  {# Prend le premier lien (un lien par citation) #}
+  {% if links %}
+    {% if links is string %}
+      {% set link_item = links %}
+    {% else %}
+      {% set link_item = links[0] %}
+    {% endif %}
+
+    {# Extraire le chemin/url et un texte par défaut #}
+    {% if link_item is string %}
+      {% set raw_path = link_item %}
+      {% set fallback_text = link_item %}
+    {% else %}
+      {% set raw_path = link_item.url or link_item.href or "" %}
+      {% set fallback_text = link_item.title or link_item.text or raw_path %}
+    {% endif %}
+
+    {% if raw_path %}
+      {# Normaliser le chemin relatif attendu par nav (enlever slash initial) #}
+      {% set src_path = raw_path.lstrip('/') %}
+
+      {# Essayer de résoudre le title et l'URL via nav #}
+      {% set resolved_title = page_title_from_path(nav, src_path) %}
+      {% if not resolved_title and not src_path.endswith('.md') %}
+        {% set resolved_title = page_title_from_path(nav, src_path + '.md') %}
+      {% endif %}
+
+      {% set resolved_url = page_url_from_path(nav, src_path) %}
+      {% if not resolved_url and not src_path.endswith('.md') %}
+        {% set resolved_url = page_url_from_path(nav, src_path + '.md') %}
+      {% endif %}
+
+      {# Choix du texte du lien #}
+      {% set link_text = resolved_title or fallback_text %}
+
+      {# --- OPTION: lien vers la page générée en root-relative directory-style --- #}
+      {% if resolved_url %}
+        {# normalise resolved_url pour qu'il soit root-relative (commence par /) #}
+        {% set href = '/' ~ resolved_url.lstrip('/') %}
+      {% else %}
+        {# convertit raw_path(.md) en /chemin/sans-ext/ (directory-style) #}
+        {% if src_path.endswith('.md') %}
+          {% set href = '/' ~ src_path[:-3].lstrip('/') ~ '/' %}
+        {% else %}
+          {% set href = '/' ~ src_path.lstrip('/') ~ '/' %}
+        {% endif %}
+      {% endif %}
+
+      <div class="citation-links" aria-label="Lien de la séance">
+        <!--<h4 class="citation-links__title">Lien</h4>-->
+        <p class="citation-links__item">
+          <a href="{{ href }}" target="_blank" rel="noopener noreferrer">Lien vers la {{ link_text }}</a>
+        </p>
+      </div>
+    {% endif %}
+  {% endif %}
+
+  {# -- ensuite la zone de citation existante -- #}
+  {# ... votre rendu de citation ... #}
+{% endblock %}

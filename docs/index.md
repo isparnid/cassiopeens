@@ -7,7 +7,7 @@ var month  = (new Date).getMonth();
 var months = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
 document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.getFullYear())</script>**</u>, ce site contient toutes les séances des **<u>Cassiopéens</u>** traduites en français.  Il n'utilise que des fichiers statiques. Pas de bases de données. Pas de cryptage. Toutes les données sont disponibles. Merci aux membres du groupe de traduction du FOTCM.
 
-La liste des derniers documents mis à jour (ci-dessous), inclue désormais les citations.
+La liste des derniers documents mis à jour (ci-dessous), inclut désormais les citations.
 
 ## Derniers documents mis à jour
 

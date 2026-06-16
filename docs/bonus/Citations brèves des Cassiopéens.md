@@ -2,7 +2,7 @@
 title: "Citations brèves des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-06-05
+  updated: 2026-06-14
 ---
 
 # Citations brèves des Cassiopéens
@@ -96,5 +96,21 @@ date:
 « Lumière et obscurité unifient toutes les densités. »
 
 « Le 7e est la lumière que vous voyez à la mort du corps. »
+
+[**Séance du 19 novembre 1994**](../séances/1994/1994-11-19.md)
+
+« Chaque « souffrance » sera vite suivie de changements spectaculaires dans la vie. »
+
+« Souvenez-vous, l’informatique a été inspirée par des forces cosmiques et reflète le système d’intelligence universel de récupération de la réalité. »
+
+« Nous sommes toujours avec vous désormais. »
+
+« Les murs ont des « oreilles ». Les satellites peuvent surveiller n’importe quelle conversation ou rencontre. »
+
+« Attention à la désinformation. Elle distrait votre attention de la réalité, vous laissant ainsi exposés à la capture, à la conquête, et peut-être même à la destruction. »
+
+« Il est extrêmement important que vous n’accumuliez pas de fausse connaissance, car c’est encore plus dommageable que pas de connaissance du tout. Rappelez-vous que la connaissance protège et que l’ignorance expose au péril. »
+
+
 
 

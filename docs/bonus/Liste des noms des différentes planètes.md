@@ -2,12 +2,12 @@
 title: "Liste des noms et informations sur les différentes planètes"
 date:
   created: 2026-03-31
-  updated: 2026-04-09
+  updated: 2026-06-14
 --- 
 
 # Liste des noms et informations sur les différentes planètes
 
-**Ankhiar**  
+**Ankhiar**
 
 [Séance du 23 octobre 1994](../séances/1994/1994-10-23.md)
 
@@ -15,7 +15,7 @@ date:
 * Elle serait près de la région de la constellation du Scorpion
 * L’ankh est un ancien symbole de cette planète. Symbole féminin. Représente la planète mère.
 
-**Dorlaqua**  
+**Dorlaqua**
 
 [Séance du 22 octobre 1994](../séances/1994/1994-10-22.md)
 
@@ -23,7 +23,7 @@ date:
 * Elle fait partie de la constellation d'Orion
 * Ils ont été capturés par les Reptilien/Gris et reprogrammés pour devenir esclave et amener sur la Terre
 
-**Jupiter = Yontar**  
+**Jupiter = Yontar**
 
 [Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)  
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
@@ -34,10 +34,10 @@ date:
 * 88 700 de diamètre
 * Son noyau est solide
 * La planète Jupiter avait un autre nom, soit Yontar
-* Jésus y aurait vécu et participé à des anciennes guerres
+* Jésus aurait un lien avec Yontar
 * Les sumériens nommaient Jupiter = Anshar
 
-**Kantek**  
+**Kantek**
 
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 [Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)  
@@ -55,20 +55,23 @@ date:
 * Certains « citoyens » de cette planète ont été sauvés et « transportés » sur la planète Terre
 * Ce sont les ascendants du peuple Aryen et du peuple Celte
 * Ils sont des descendants aux cheveux blonds et yeux bleus (pigmentation oculaire dû à la distance importante du Soleil)
-* À une époque dans l’histoire ancienne, la planète Kantek, Martek et Terre ont eu des civilisations simultanément 
+* À une époque dans l’histoire ancienne, la planète Kantek, Martek et Terre ont eu des civilisations simultanément
+* Ce sont nos ancêtres spirituels
 
-**Mars = Martek = Masar**  
+**Mars = Martek = Masar**
 
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 [Séance du 05 octobre 1994](../séances/1994/1994-10-05.md)  
 [Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)  
 [Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)  
-[Séance du 18 octobre 1994](../séances/1994/1994-10-18.md)
+[Séance du 18 octobre 1994](../séances/1994/1994-10-18.md)  
+[Séance du 19 novembre 1994](../séances/1994/1994-11-19.md)
 
 * 141 500 000 miles du Soleil
 * 4 200 miles de diamètre
 * La planète Mars avait un autre nom, soit Martek
 * Mars a été dévié de son orbite dû au passage de la comète « Vénus »
+* Sa déviation a causé des dommages sur la Terre ainsi que des destructions à la civilisation Atlantide
 * C’est événement s’est passé approximativement vers l’an 2676 av. J.C.
 * Martek/Mars a passé près de la Terre
 * Ceci a occasionné le déluge sur la Terre, tel que relaté dans la Bible sur Noé
@@ -76,37 +79,39 @@ date:
 * Il y a des lunes qui sont des bases construites par les Reptiliens
 * Les Bigfoot/Sasquatch vivent dans des bases sur la planète Mars et ce sont les « esclaves/animaux de compagnies » des Reptiliens
 * Les sumériens nommaient Mars = Marduk
-* À une époque dans l’histoire ancienne, la planète Kantek, Martek et Terre ont eu des civilisations simultanément 
+* À une époque dans l’histoire ancienne, la planète Kantek, Martek et Terre ont eu des civilisations simultanément
+* Les monuments sur la planète Mars ont été construits par les Atlantes. Ceci leur servait de points de transfert d’énergie pour charge/symbolique cristalline comme dans les monuments ou les statues.
+* Le visage sur Mars provient des Atlantes.
 
-**Mercure = Opatanar**  
+**Mercure = Opatanar**
 
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
 
 * 36 millions de miles du Soleil
 * 3 000 miles de diamètre
 
-**Neptune = Jinoar**  
+**Neptune = Jinoar**
 
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
 
 * 2 794 300 000 miles du Soleil
 * 30 199 de diamètre
 
-**Pluton = Opikimanaras**  
+**Pluton = Opikimanaras**
 
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
 
 * 3 666 100 000 miles du Soleil
 * 1 864 de diamètre
 
-**Qaddeera**  
+**Qaddeera**
 
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
 
 * Planète faisant partie du système binaire de Zeta Reticuli
 * C’est à cet endroit que nous retrouvons les aliens = Reptiliens ainsi que les Gris
 
-**Saturne = Zendar/Zindar**  
+**Saturne = Zendar/Zindar**
 
 [Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)  
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
@@ -115,10 +120,10 @@ date:
 * 886 700 000 du Soleil
 * 74 500 de diamètre
 * La planète Saturne avait un autre nom, soit Zendar/Zindar
-* Jésus y aurait vécu
+* Jésus aurait un lien avec le Conseil de Zendar/Zindar
 * Les sumériens nommaient Saturne = Gaga
 
-**Terre = Saras**  
+**Terre = Saras**
 
 [Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)  
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
@@ -135,16 +140,16 @@ date:
 * Pendant cette période des dinosaures, la Terre était entourée d’une nappe de vapeur d’eau 
 * La Terre a vécu une période édénique qui s’est passé autour de 309 882 ans.
 * Les sumériens nommaient Terre = Lahmu
-* À une époque dans l’histoire ancienne, la planète Kantek, Martek et Terre ont eu des civilisations simultanément 
+* À une époque dans l’histoire ancienne, la planète Kantek, Martek et Terre ont eu des civilisations simultanément
 
-**Uranus = Lonoponor**  
+**Uranus = Lonoponor**
 
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
 
 * 1 782 700 000 miles du Soleil
 * 31 566 de diamètre
 
-**Uzuli**  
+**Uzuli**
 
 [Séance du 30 juillet 1994](../séances/1994/1994-07-30.md)
 
@@ -155,13 +160,14 @@ date:
 * Zeta Reticuli, est à une distance de 39 années-lumière de la Terre
 
 
-**Vénus = Pemuntar**  
+**Vénus = Pemuntar**
 
 [Séance du 22 juillet 1994](../séances/1994/1994-07-22.md)  
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)  
 [Séance du 05 octobre 1994](../séances/1994/1994-10-05.md)  
 [Séance du 07 octobre 1994](../séances/1994/1994-10-07.md)  
-[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)
+[Séance du 09 octobre 1994](../séances/1994/1994-10-09.md)  
+[Séance du 19 novembre 1994](../séances/1994/1994-11-19.md)
 
 * 67 millions de miles du Soleil
 * 7 500 miles de diamètre
@@ -172,6 +178,7 @@ date:
 * Elle aurait traversé notre système solaire 7 fois, avant de prendre sa place en tant que planète orbitale autour du Soleil
 * Elle était attirée par la force gravitationnelle émise par le groupe cométaire qui la fait voyager jusqu’à notre système solaire
 * Lors de son passage avant de se stabiliser autour du Soleil, elle a fait dévier la planète Mars/Martek
+* Pendant son passage dans notre système solaire, elle a occasionné des dégâts sur notre planète Terre qui a affecté la civilisation Atlantide.
 * C’est événement s’est passé approximativement vers l’an 2676 av. J.C.
 * Donc, son dernier passage correspond à l’Exode
 * Sa provenance venait d’un autre système extra-solaire, soit à 19 années-lumière
@@ -179,7 +186,7 @@ date:
 * Les sumériens nommaient Vénus = Lahamu
 * Les sumériens avaient représenté la queue de la comète Vénus et le groupe cométaire par un bracelet martelé
 
-**Planète NI = Montonanas**  
+**Planète NI = Montonanas**
 
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
 
@@ -187,7 +194,7 @@ date:
 * Matière solide
 * 7 000 miles de diamètre
 
-**Planète NII = Suvurutarcar**  
+**Planète NII = Suvurutarcar**
 
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
 
@@ -195,12 +202,11 @@ date:
 * 18 000 miles de diamètre
 * Fait d’hydrogène et d’ammoniac
 
-**Planète NIII = Bikalamanar**  
+**Planète NIII = Bikalamanar**
 
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
 
 * 1 600 000 000 000 miles du Soleil
 * 46 000 miles de diamètre 
 * Fait d’hydrogène et d’ammoniac
-
 

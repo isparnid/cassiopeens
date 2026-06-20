@@ -2,7 +2,7 @@
 title: "Citations brèves des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-06-14
+  updated: 2026-06-19
 ---
 
 # Citations brèves des Cassiopéens
@@ -111,6 +111,22 @@ date:
 
 « Il est extrêmement important que vous n’accumuliez pas de fausse connaissance, car c’est encore plus dommageable que pas de connaissance du tout. Rappelez-vous que la connaissance protège et que l’ignorance expose au péril. »
 
+[**Séance du 24 novembre 1994**](../séances/1994/1994-11-24.md)
 
+« Il est important pour chacun sur la planète d’apprendre à son propre rythme. »
+
+« L’univers n’est rien de plus qu’un laboratoire d’apprentissage. »
+
+« La connaissance est ancrée dans la conscience. »
+
+« Tout est leçon. L’école est infiniment vaste. Il n’y a aucune autre raison à l’existence. Même la matière inanimée apprend que tout est « illusion ». »
+
+« Chacun contient la totalité de la création dans son esprit. »
+
+« Chaque âme est toute-puissante et peut créer ou détruire toute existence à condition de savoir comment. »
+
+« Vous et nous, et tous les autres, sommes reliés les uns aux autres du fait de notre possession mutuelle de tout ce qui est. »
+
+« Vous pouvez créer des univers alternatifs à votre gré, et y habiter. Chacun de vous est une réplique de l’univers dans lequel il réside. Votre esprit représente tout ce qui existe. C’est « amusant » de voir jusqu’où l’on peut aller. »
 
 

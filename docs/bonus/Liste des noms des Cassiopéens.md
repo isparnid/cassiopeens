@@ -2,7 +2,7 @@
 title: "Liste des noms des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-06-14
+  updated: 2026-06-19
 ---
 
 # ﻿Liste des noms des Cassiopéens
@@ -60,6 +60,9 @@ date:
 
 **PAMTHORA**
 [Séance du 30 septembre 1994](../séances/1994/1994-09-30.md)
+
+**PEEHMI**
+[Séance du 24 novembre 1994](../séances/1994/1994-11-24.md)
 
 **PROMIA**
 [Séance du 09 novembre 1994](../séances/1994/1994-11-09.md)

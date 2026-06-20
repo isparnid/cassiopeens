@@ -6,11 +6,11 @@ site_description: Transcriptions des séances Cassiopéennes.
 site_name: Séances des Cassiopéens
 site_url: https://www.cassiopeens.fr
 repo_url: https://github.com/isparnid/cassiopeens
-repo_name: GitHub
+repo_name: isparnid/cassiopeens
 site_author : Membres du groupe de traduction FOTCM
 use_directory_urls: true
 extra:
-  generator: false  # 隐藏页脚 “Made with Material for MkDocs”
+  generator: true  # 隐藏页脚 “Made with Material for MkDocs”
   analytics:
     provider: google
     property: G-37X5W8EFZV
@@ -111,24 +111,34 @@ theme:
     - toc.follow
     - toc.integrate
     - announce.dismiss
+  topbar_style: primary   # glass primary accent
+
   palette:
+
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
+
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default
+      scheme: default 
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+
 plugins:
   - search
   - meta

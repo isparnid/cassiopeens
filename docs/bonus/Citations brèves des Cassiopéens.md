@@ -2,7 +2,7 @@
 title: "Citations brèves des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-06-19
+  updated: 2026-06-29
 ---
 
 # Citations brèves des Cassiopéens
@@ -128,5 +128,15 @@ date:
 « Vous et nous, et tous les autres, sommes reliés les uns aux autres du fait de notre possession mutuelle de tout ce qui est. »
 
 « Vous pouvez créer des univers alternatifs à votre gré, et y habiter. Chacun de vous est une réplique de l’univers dans lequel il réside. Votre esprit représente tout ce qui existe. C’est « amusant » de voir jusqu’où l’on peut aller. »
+
+[**Séance du 26 novembre 1994**](../séances/1994/1994-11-26.md)
+
+« Tout est interactif lorsqu’il est question de l’« esprit collectif ». »
+
+« L’équilibre est naturel. Rappelez-vous, tout n’est que leçons dans le grand cycle. »
+
+« Rappelez-vous, nous sommes la lumière. Ils sont l’obscurité. Nous sommes tous deux des formes pensées de niveau supérieur reflétées à tous les niveaux de réalité. »
+
+
 
 

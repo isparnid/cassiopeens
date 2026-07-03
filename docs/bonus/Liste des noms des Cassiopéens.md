@@ -2,7 +2,7 @@
 title: "Liste des noms des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-06-19
+  updated: 2026-06-29
 ---
 
 # ﻿Liste des noms des Cassiopéens
@@ -48,6 +48,9 @@ date:
 
 **MUCPEOR**
 [Séance du 16 juillet 1994](../séances/1994/1994-07-16.md)
+
+**MUREAN**
+[Séance du 26 novembre 1994](../séances/1994/1994-11-26.md)
 
 **NOM PANUA NOM OZ NOM PAMALA**
 [Séance du 30 juillet 1994](../séances/1994/1994-07-30.md)

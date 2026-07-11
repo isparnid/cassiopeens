@@ -1,11 +1,6 @@
 # Accueil
 
-Depuis le <u>**<script>const ladate = new Date(2026,4,2);
-var day = (new Date).getDay()
-var days = ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"];
-var month  = (new Date).getMonth();
-var months = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
-document.write((days[day])+" "+ladate.getDate()+" "+(months[month])+" "+ladate.getFullYear())</script>**</u>, ce site contient toutes les séances des **<u>Cassiopéens</u>** traduites en français.  Il n'utilise que des fichiers statiques. Pas de bases de données. Pas de cryptage. Toutes les données sont disponibles. Merci aux membres du groupe de traduction du FOTCM.
+Depuis le <u>**jeudi 2 avril 2026**</u>, ce site contient toutes les séances des **<u>Cassiopéens</u>** traduites en français.  Il n'utilise que des fichiers statiques. Pas de bases de données. Pas de cryptage. Toutes les données sont disponibles. Merci aux membres du groupe de traduction du FOTCM.
 
 La liste des derniers documents mis à jour (ci-dessous), inclut désormais les citations.
 

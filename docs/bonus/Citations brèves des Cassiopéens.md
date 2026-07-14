@@ -2,7 +2,7 @@
 title: "Citations brèves des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-06-29
+  updated: 2026-07-10
 ---
 
 # Citations brèves des Cassiopéens
@@ -137,6 +137,22 @@ date:
 
 « Rappelez-vous, nous sommes la lumière. Ils sont l’obscurité. Nous sommes tous deux des formes pensées de niveau supérieur reflétées à tous les niveaux de réalité. »
 
+[**Séance du 01 décembre 1994**](../séances/1994/1994-12-01.md)
 
+« Nous sommes libre arbitre, nous pouvons conseiller. »
 
+« Souvenez-vous, les enfants sont plus vulnérables quand une attaque est en cours. »
 
+« Personne ne « sait tout » et ne voit tout. »
+
+« La connaissance est le bouclier. »
+
+[**Séance du 03 décembre 1994**](../séances/1994/1994-12-03.md)
+
+« Le grand cycle est sur le point de se terminer, offrant ainsi une opportunité unique. »
+
+« Tout ce qui existe, à tous les niveaux, n’est que leçon. »
+
+« La Terre est un point de Convergence. »
+
+« Les frontières entre mondes sont portées par des ondes. »

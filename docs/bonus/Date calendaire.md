@@ -2,7 +2,7 @@
 title: "Date calendaire"
 date:
   created: 2026-03-31
-  updated: 2026-06-05
+  updated: 2026-07-10
 ---
 
 # Date calendaire
@@ -34,13 +34,15 @@ date:
 [Séance 16 octobre 1994](../séances/1994/1994-10-16.md)  
 [Séance 22 octobre 1994](../séances/1994/1994-10-22.md)  
 [Séance 02 novembre 1994](../séances/1994/1994-11-02.md)  
-[Séance 16 novembre 1994](../séances/1994/1994-11-16.md)
+[Séance 16 novembre 1994](../séances/1994/1994-11-16.md)  
+[Séance 03 décembre 1994](../séances/1994/1994-12-03.md)
 
 * C’était le moment de la « Chute » de l’Eden.
 * La période édénique de la Terre a duré 309 000 ans approximativement avant sa « Chute »
 * Il y eu perte de foi qui a provoqué des limitations physiques et une restriction de la connaissance par les reptiliens
 * Des êtres lézards ont altéré génétiquement la race humaine après la bataille pour leurs propres visées alimentaires
 * Pendant cette période, il y a eu un cataclysme provoqué par le passage du groupe cométaire qui correspond avec la « Chute » de l’Eden
+* Ce cycle de 309 000 ans correspond à la venue de « L’Onde », et est venue affecter la Terre des nombres infinis.
 
 **79 000 ans / 80 000 ans**
 

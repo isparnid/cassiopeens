@@ -2,7 +2,7 @@
 title: "Liste des noms des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-06-29
+  updated: 2026-07-10
 ---
 
 # ﻿Liste des noms des Cassiopéens
@@ -46,6 +46,9 @@ date:
 **GURSAEA**
 [Séance du 28 octobre 1994](../séances/1994/1994-10-28.md)
 
+**ILLO**
+[Séance du 27 novembre 1994](../séances/1994/1994-11-27.md)
+
 **MUCPEOR**
 [Séance du 16 juillet 1994](../séances/1994/1994-07-16.md)
 
@@ -76,8 +79,14 @@ date:
 **ROLLA**
 [Séance du 04 novembre 1994](../séances/1994/1994-11-04.md)
 
+**ROMOMMEA**
+[Séance du 01 décembre 1994](../séances/1994/1994-12-01.md)
+
 **VEDEEBA**
 [Séance du 06 novembre 1994](../séances/1994/1994-11-06.md)
+
+**WASANNA**
+[Séance du 03 décembre 1994](../séances/1994/1994-12-03.md)
 
 **XORA**
 [Séance du 19 novembre 1994](../séances/1994/1994-11-19.md)

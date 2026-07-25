@@ -2,7 +2,7 @@
 title: "Date calendaire"
 date:
   created: 2026-03-31
-  updated: 2026-07-10
+  updated: 2026-07-24
 ---
 
 # Date calendaire
@@ -43,6 +43,12 @@ date:
 * Des êtres lézards ont altéré génétiquement la race humaine après la bataille pour leurs propres visées alimentaires
 * Pendant cette période, il y a eu un cataclysme provoqué par le passage du groupe cométaire qui correspond avec la « Chute » de l’Eden
 * Ce cycle de 309 000 ans correspond à la venue de « L’Onde », et est venue affecter la Terre des nombres infinis.
+
+**309 448 ans**
+
+[Séance 10 décembre 1994](../séances/1994/1994-12-10.md)
+
+* Un homme aurait découvert dans une grotte une structure dans une grotte qui selon les Cassiopéens, serait une paroi de magnésium construite par les Reptiliens et aurait été ensevelie lors de cataclysme.
 
 **79 000 ans / 80 000 ans**
 
@@ -104,6 +110,19 @@ date:
 * Construction de la Grande Pyramide qui servait à capter l’énergie cosmique pour l’utiliser à différentes applications, soit :
 	* Énergie, transport, guérison, contrôle mental, climat, etc.
 * Construction du Sphinx
+
+**8 498 ans av. J.-C.**
+
+[Séance 10 décembre 1994](../séances/1994/1994-12-10.md)
+
+* Selon l’hypothèse de l’auteur Otto Muck (livre – The secret of Atlantis) cette date correspondrait à la destruction de l’Atlantide. Les Cassiopéens ont confirmé que cette date était proche.
+
+**8 000 ans av. J.-C.**
+
+[Séance 10 décembre 1994](../séances/1994/1994-12-10.md)
+
+* Une technologie des Reptiliens serait enterrée profond sur l’île Oak Island en Nouvelle-Écosse au Canada.
+* Cette technologie serait un remolécularisateur, qui sert à régénérer la matière.
 
 **6 249 ans av. J.-C.**
 

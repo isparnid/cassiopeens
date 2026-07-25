@@ -2,7 +2,7 @@
 title: "Citations brèves des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-07-10
+  updated: 2026-07-24
 ---
 
 # Citations brèves des Cassiopéens
@@ -156,3 +156,48 @@ date:
 « La Terre est un point de Convergence. »
 
 « Les frontières entre mondes sont portées par des ondes. »
+
+[**Séance du 05 décembre 1994**](../séances/1994/1994-12-05.md)
+
+« Servons en aidant à apprendre, apprendre en utilisant l’esprit. Les réponses directes n’aident pas à apprendre. »
+
+« La douleur enseigne. »
+
+[**Séance du 10 décembre 1994**](../séances/1994/1994-12-10.md)
+
+« Nous sommes des Passagers Transitoires. »
+
+« Quand l’Onde atteindra la Terre, nous fusionnerons avec vous. »
+
+« Au point de référence où vous vous trouvez actuellement dans l’espace-temps, nous sommes vous dans le futur. »
+
+« Nous sommes votre être entier, c’est–à-dire vous/nous en 6e densité. »
+
+« L’Onde est un moyen de transport. »
+
+« Le SDA est équilibre car on sert le soi en servant les autres. »
+
+« SDA est équilibre. SDS est déséquilibre. »
+
+« Le SDA se diffuse vers l’extérieur et atteint tout, y compris le point d’origine ; le SDS se diffuse vers l’intérieur et n’atteint que le point d’origine. »
+
+« Les Trous noirs sont une force naturelle reflétant le schéma de conscience du Libre arbitre SDS. Remarquez que les Trous noirs se trouvent au centre de forces d’énergie en spirale, tout le reste rayonnant vers l’extérieur. »
+
+« Il en est ainsi dans toute la Création : tout n’est qu’onde rayonnante. »
+
+« Vers l’intérieur, la non-existence absolue. »
+
+« L’univers englobe tout. Les Trous noirs sont la destination finale de toute énergie SDS. »
+
+« La non-existence absolue équilibre l’existence absolue. »
+
+« Aussi longtemps que vous existez, vous faites partie du Créateur primordial. »
+
+« Le Créateur primordial ne « perd » rien. »
+
+« Progression vers l’union avec le Un, c.-à-d. le niveau 7. »
+
+« Nous donnons aux autres et recevons d’autres SDA. Nous nous nourrissons mutuellement. »
+
+« Un pur SDA ne veut rien. Nous sommes venus parce que VOUS le vouliez. Mais ça reste SDS tant que vous ne le partagez pas avec d’autres. »
+

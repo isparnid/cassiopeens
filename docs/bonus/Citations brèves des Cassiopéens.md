@@ -2,7 +2,7 @@
 title: "Citations brèves des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-07-24
+  updated: 2026-08-07
 ---
 
 # Citations brèves des Cassiopéens
@@ -201,3 +201,34 @@ date:
 
 « Un pur SDA ne veut rien. Nous sommes venus parce que VOUS le vouliez. Mais ça reste SDS tant que vous ne le partagez pas avec d’autres. »
 
+[**Séance du 17 décembre 1994**](../séances/1994/1994-12-17.md)
+
+« Travaillez toujours en « réseau ». Le travail en réseau est un concept de 4e densité SDA qui s’infiltre dans la 3e densité du fait du passage imminent de la frontière entre les mondes. »
+
+« Le passé et le futur sont tous les deux dans le présent. »
+
+« Nous apparaissons rarement sous forme humaine. »
+
+« Nous ne sommes pas plus créateurs que vous ne l’êtes. Nous sommes tous créateurs. »
+
+[**Séance du 23 décembre 1994**](../séances/1994/1994-12-23.md)
+
+« L’enfance est le tremplin vers le développement spirituel dans toute vie. »
+
+[**Séance du 28 décembre 1994**](../séances/1994/1994-12-28.md)
+
+« Nous ne pouvons pas interférer pour aider ; la connaissance protège, l’ignorance expose au péril. Vous pouvez vous aider vous-mêmes en acquérant la connaissance, nous pouvons être le « conduit ». »
+
+« Le subconscient est identique dans le corps ou en dehors. »
+
+« L’univers est une illusion sans fin. »
+
+« Apprendre implique la découverte. »
+
+« L’influence ne vient pas de l’expérience mais de la croyance. »
+
+« Tout arrive pour une bonne raison. »
+
+[**Séance du 31 décembre 1994**](../séances/1994/1994-12-31.md)
+
+« Nous sommes des êtres de lumière, nous sommes vous dans le futur. »

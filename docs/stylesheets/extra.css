@@ -15,3 +15,16 @@
 }
 /* variante sous le titre */
 .md-build-date.under { display: block; margin-top: 0.25rem; margin-left: 0.5rem; }
+
+/* Pour la colonne de gauche avec la liste des tags */
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary .md-nav__list {
+      width: 14rem;
+    }
+
+  .md-sidebar--primary {
+      width: 15rem !important;
+      left: -15rem !important;
+  }
+}
+

@@ -67,16 +67,16 @@ L'astérisque "\*" permet de remplacer n'importe quel caractère. Dans l'exemple
 
 # Important
 
-* Téléchargement du site sur son PC/Tablette tel qu'il apparaît sur internet avec la même fonctionnalité de recherche,(en cours).
-* Téléchargement au <u>format PDF</u>, (en cours).
-* Téléchargement au <u>format ePUB</u>, (en cours).
+* Téléchargement du site sur son PC/Tablette tel qu'il apparaît sur internet avec la même fonctionnalité de recherche.
+* Téléchargement au <u>format PDF</u> des séances.
+* Téléchargement au <u>format ePUB</u> des séances.
 * etc.
 
 # Licence et copyright
 
-Copyright & MT
+Copyright & licence MIT
 
-Transcriptions des sessions Cassiopéennes copyright &copy 1994-2026 FOTCM, Inc. Tous droits réservés.
+Transcriptions des sessions Cassiopéennes copyright &copy; 1994-2026 FOTCM, Inc. Tous droits réservés.
 
 Le code source sous-jacent utilisé pour formater et afficher ce contenu est distribué sous [licence MIT](https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md).
 

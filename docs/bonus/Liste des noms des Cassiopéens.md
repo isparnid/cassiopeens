@@ -2,7 +2,7 @@
 title: "Liste des noms des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-08-07
+  updated: 2026-09-25
 ---
 
 # ﻿Liste des noms des Cassiopéens
@@ -79,6 +79,9 @@ date:
 **PROMIA**
 [Séance du 09 novembre 1994](../séances/1994/1994-11-09.md)
 
+**RIVIA**
+[Séance du 02 janvier 1995](../séances/1995/1995-01-02.md)
+
 **RODANN**
 [Séance du 10 décembre 1994](../séances/1994/1994-12-10.md)
 
@@ -93,6 +96,12 @@ date:
 
 **ROMOMMEA**
 [Séance du 01 décembre 1994](../séances/1994/1994-12-01.md)
+
+**SORRONA**
+[Séance du 01 janvier 1995](../séances/1995/1995-01-01.md)
+
+**TUROIAN**
+[Séance du 05 janvier 1995](../séances/1995/1995-01-05.md)
 
 **URUA**
 [Séance du 05 décembre 1994](../séances/1994/1994-12-05.md)

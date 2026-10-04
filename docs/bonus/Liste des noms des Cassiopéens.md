@@ -2,7 +2,7 @@
 title: "Liste des noms des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-09-25
+  updated: 2026-10-02
 ---
 
 # ﻿Liste des noms des Cassiopéens
@@ -48,6 +48,9 @@ date:
 
 **ILLO**
 [Séance du 27 novembre 1994](../séances/1994/1994-11-27.md)
+
+**LOMARRA**
+[Séance du 07 janvier 1995](../séances/1995/1995-01-07.md)
 
 **MUCPEOR**
 [Séance du 16 juillet 1994](../séances/1994/1994-07-16.md)

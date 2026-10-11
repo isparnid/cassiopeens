@@ -2,7 +2,7 @@
 title: "Liste des noms des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-10-02
+  updated: 2026-10-09
 ---
 
 # ﻿Liste des noms des Cassiopéens
@@ -45,6 +45,9 @@ date:
 
 **GURSAEA**
 [Séance du 28 octobre 1994](../séances/1994/1994-10-28.md)
+
+**HNORRA**
+[Séance du 14 janvier 1995](../séances/1995/1995-01-14.md)
 
 **ILLO**
 [Séance du 27 novembre 1994](../séances/1994/1994-11-27.md)

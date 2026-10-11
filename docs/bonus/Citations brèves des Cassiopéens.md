@@ -2,7 +2,7 @@
 title: "Citations brèves des Cassiopéens"
 date:
   created: 2026-03-31
-  updated: 2026-10-02
+  updated: 2026-10-09
 ---
 
 # Citations brèves des Cassiopéens
@@ -368,3 +368,17 @@ date:
 « En fait, les SDS ne peuvent concevoir de « perdre », mais ressentent instinctivement l’étau se resserrer autour d’eux – ce qui explique la tourmente qui s’annonce. »
 
 « Distractions et désinformation de sorte que la connaissance soit éparse et par conséquent plus de monde vulnérable aux attaques. »
+
+[**Séance du 11 janvier 1995**](../séances/1995/1995-01-11.md)
+
+« Le SDA ne prend pas ses désirs pour la réalité. »
+
+« Les désirs sont strictement SDS. »
+
+« Si l’on passe de SDS à SDA au 4e niveau, on ne revient pas en arrière. »
+
+« Maintenant, une bombe pour vous : les êtres du 3e niveau qui parviennent au total état SDA passent automatiquement et instantanément au 4e niveau au moment même où cet état est atteint ! »
+
+« Les souvenirs sont des empreintes du « Passé, du Présent, et du Futur ». »
+
+« En 4e, on peut « voir » les sons et « entendre les couleurs ». »

@@ -7,7 +7,7 @@
     </url>
     <url>
         <loc>https://www.cassiopeens.fr/about/</loc>
-        <lastmod>2026-02-09</lastmod>
+        <lastmod>2026-02-10</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
@@ -5583,6 +5583,11 @@
     <url>
         <loc>https://www.cassiopeens.fr/s%C3%A9ances/2026/2026-07-25/</loc>
         <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://www.cassiopeens.fr/s%C3%A9ances/2026/2026-09-26/</loc>
+        <lastmod>2026-11-08</lastmod>
         <changefreq>daily</changefreq>
     </url>
 </urlset>

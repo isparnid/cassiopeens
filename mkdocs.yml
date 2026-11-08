@@ -10,7 +10,7 @@ repo_name: isparnid/cassiopeens
 site_author : Membres du groupe de traduction FOTCM
 use_directory_urls: true
 extra:
-  generator: true  # 隐藏页脚 “Made with Material for MkDocs”
+  generator: false
   analytics:
     provider: google
     property: G-37X5W8EFZV

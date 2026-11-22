@@ -2,20 +2,31 @@
 title: C's messages finaux
 name: Membres du groupe de traduction FOTCM
 created: 2025-12-31
-updated: 2026-06-16
+updated: 2026-11-22
 ---
 # Messages finaux récents et avertissements des séances
 
+## [Séance du 7 novembre 2026](séances/2026/2026-11-07.md)
+
+R : Pendant que les gens sont distraits par les fêtes, les méchants ne dorment pas. Soyez éveillés et conscients ! Au revoir.
+
+## [Séance du 27 juin 2026](séances/2026/2026-06-27.md)
+
+R : C'est le moment d'aimer, car cela commence à chauffer dans d'autres sphères. Priloniaea de Cassiopée ce soir.  
+...  
+
+R : Gardez la foi. Vous savez que la situation doit encore empirer, alors ne désespérez pas. Oui, c'est une épreuve d'endurance. Mais vos ancêtres ont enduré bien pire, et pendant bien plus longtemps. [La planchette ralentit] L’aide est en chemin ! Au revoir.
+
 ## [Séance du 24 janvier 2026](séances/2026/2026-01-24.md)
 
-**R :** Priez sans cesse. L’univers est pleinement conscient. Au revoir. 
+**R :** Priez sans cesse. L’univers est pleinement conscient. Au revoir.
 
 ## [Séance du 27 septembre 2025](séances/2025/2025-09-27.md)
 
-**R :** Faites en sorte de rester discrets à partir de maintenant. Les choses sont sur le point de devenir plus étranges que vous ne pouvez l'imaginer.
-[...]
-**R :** Encore une fois, par mesure de sécurité, restez discrets sur les réseaux sociaux. La situation devient un peu plus instable.
-[...]
+**R :** Faites en sorte de rester discrets à partir de maintenant. Les choses sont sur le point de devenir plus étranges que vous ne pouvez l'imaginer.  
+[...]  
+**R :** Encore une fois, par mesure de sécurité, restez discrets sur les réseaux sociaux. La situation devient un peu plus instable.  
+[...]  
 **R :** « La prudence est de mise !»
 
 ## [Séance du 28 juin 2025](séances/2025/2025-06-28.md)
